@@ -6319,7 +6319,7 @@
     }
   },
   "star-wars-episode-iii-revenge-of-the-sith": {
-    "key": "Star Wars: Episode III - Revenge of the Sith",
+    "key": "Star Wars: Episode III – Revenge of the Sith",
     "wikipedia": {
       "title": "Star Wars: Episode III – Revenge of the Sith (video game)",
       "url": "https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith_(video_game)"
@@ -6327,7 +6327,7 @@
     "qid": "Q54846",
     "summary": "Star Wars: Episode III – Revenge of the Sith is an action video game based on the 2005 film of the same name. It was released on May 5, 2005, for the PlayStation 2, Xbox, Game Boy Advance, Nintendo DS, and Symbian OS. For the Xbox 360's backwards compatible lineup, Revenge of the Sith is one out of the 400+ backwards compatible games for the 360. As part of the PlayStation 2 classics program, the PlayStation 2 version was re-released in Europe on the PlayStation Network on February 11, 2015, and in North America on April 28, 2015 for PlayStation 3.",
     "cover": null,
-    "checkedAt": "2026-10-15T15:46:42.677Z",
+    "checkedAt": "2026-10-19T06:26:33.691Z",
     "facts": {
       "year": 2005,
       "developers": [
@@ -8962,5 +8962,383 @@
         "role-playing"
       ]
     }
+  },
+  "crash-team-racing-nitro-fueled": {
+    "key": "Crash Team Racing Nitro-Fueled",
+    "wikipedia": {
+      "title": "Crash Team Racing Nitro-Fueled",
+      "url": "https://en.wikipedia.org/wiki/Crash_Team_Racing_Nitro-Fueled"
+    },
+    "qid": "Q59594323",
+    "summary": "Crash Team Racing Nitro-Fueled is a 2019 kart racing game developed by Beenox and published by Activision for the PlayStation 4, Xbox One, and Nintendo Switch. The game is a remastered version of Crash Team Racing (1999), which was originally developed by Naughty Dog and published by Sony Computer Entertainment for the PlayStation. The game was rebuilt with updated visuals and audio, alongside adjustments to the original gameplay, including kart customization, two variations of the single-player campaign, and an in-game shop.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/36/Crash_Team_Racing_Nitro-Fueled_cover_art.jpg",
+      "width": 480,
+      "height": 687,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Crash_Team_Racing_Nitro-Fueled_cover_art.jpg"
+    },
+    "checkedAt": "2026-10-19T06:26:28.586Z",
+    "facts": {
+      "year": 2019,
+      "developers": [
+        "Beenox"
+      ],
+      "publishers": [],
+      "genres": [
+        "racing"
+      ]
+    }
+  },
+  "ctw-native": {
+    "key": "CTW-Native",
+    "wikipedia": null,
+    "checkedAt": "2026-10-19T06:26:28.986Z"
+  },
+  "disneys-hercules": {
+    "key": "Disney's Hercules",
+    "wikipedia": {
+      "title": "Hercules (1997 video game)",
+      "url": "https://en.wikipedia.org/wiki/Hercules_(1997_video_game)"
+    },
+    "qid": "Q374320",
+    "summary": "Hercules (also known as Disney's Hercules, Disney's Hercules Action Game, Hercules Action Game, Disney's Action Game Featuring Hercules, and Disney's Action Game Featuring Disney's Hercules in Europe) is a 1997 platform-action video game developed by Eurocom Entertainment Software. It is based on the 1997 film of the same name. It was released on the PlayStation and Microsoft Windows, along with a different version developed by Tiertex Design Studios for the Game Boy released by THQ the same year.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/ae/Hercposter.jpg",
+      "width": 480,
+      "height": 719,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Hercposter.jpg"
+    },
+    "checkedAt": "2026-10-19T06:26:29.312Z"
+  },
+  "doom-heretic-hexen": {
+    "key": "Doom / Heretic / Hexen",
+    "wikipedia": null,
+    "checkedAt": "2026-10-19T06:26:29.749Z"
+  },
+  "dragons-crown-pro": {
+    "key": "Dragon's Crown Pro",
+    "wikipedia": {
+      "title": "Dragon's Crown",
+      "url": "https://en.wikipedia.org/wiki/Dragon%27s_Crown"
+    },
+    "qid": "Q5305045",
+    "summary": "Dragon's Crown is a 2013 action role-playing game developed by Vanillaware for the PlayStation 3 and PlayStation Vita. The game was published in Japan and North America by Atlus and in PAL regions by NIS America. A high-definition port for PlayStation 4, Dragon's Crown Pro, was released by Atlus in 2018.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/cd/Dragons_Crown.png",
+      "width": 480,
+      "height": 559,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Dragons_Crown.png"
+    },
+    "checkedAt": "2026-10-19T06:26:30.030Z",
+    "facts": {
+      "year": 2013,
+      "developers": [
+        "Vanillaware"
+      ],
+      "publishers": [
+        "Nippon Ichi Software"
+      ],
+      "genres": [
+        "action role-playing game"
+      ]
+    }
+  },
+  "fight-night-champion": {
+    "key": "Fight Night Champion",
+    "wikipedia": {
+      "title": "Fight Night Champion",
+      "url": "https://en.wikipedia.org/wiki/Fight_Night_Champion"
+    },
+    "qid": "Q2982191",
+    "summary": "Fight Night Champion is a boxing video game developed by EA Canada and published by Electronic Arts. It is the fifth and last entry in the Fight Night series and was released in March 2011 for the PlayStation 3 and Xbox 360. The game takes a drastic turn from its predecessors, depicting a \"grittier\", \"darker\" setting with animations and player damage that \"truly conveys the brutality of the sport of boxing.\" The violence and strong language in the game's story mode earned it a Mature rating from the Entertainment Software Rating Board, the first EA Sports title to do so.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/34/Fight_Night_Champion.jpg",
+      "width": 480,
+      "height": 572,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Fight_Night_Champion.jpg"
+    },
+    "checkedAt": "2026-10-19T06:26:30.362Z",
+    "facts": {
+      "year": 2011,
+      "developers": [
+        "EA Vancouver"
+      ],
+      "publishers": [
+        "EA Sports"
+      ],
+      "genres": [
+        "boxing"
+      ]
+    }
+  },
+  "forza-horizon-1": {
+    "key": "Forza Horizon 1",
+    "wikipedia": {
+      "title": "Forza Horizon",
+      "url": "https://en.wikipedia.org/wiki/Forza_Horizon"
+    },
+    "qid": "Q83843",
+    "summary": "Forza Horizon is a 2012 racing video game developed by Playground Games and published by Microsoft Studios for the Xbox 360 on 23 October 2012. The game is the fifth instalment of the Forza series, having originally spun-off from Turn 10 Studios-developed Forza Motorsport titles. Taking place during the fictitious Horizon Festival, a street racing event, the player's aim is to progress via winning races, while also increasing their popularity level by performing stunts and activities.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/77/Forza_Horizon_boxart.jpg",
+      "width": 480,
+      "height": 609,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Forza_Horizon_boxart.jpg"
+    },
+    "checkedAt": "2026-10-19T06:26:30.625Z"
+  },
+  "glider-pro": {
+    "key": "Glider PRO",
+    "wikipedia": {
+      "title": "Glider (video game)",
+      "url": "https://en.wikipedia.org/wiki/Glider_(video_game)"
+    },
+    "qid": "Q4039475",
+    "summary": "Glider is an action game written by John Calhoun for the Mac and published as shareware in 1988 under the company name Soft Dorothy Software. The object of the game is to fly a paper plane through the rooms of a house. Air currents from heat ducts and fans affect the plane's movement, while assorted household objects are usually deadly.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Glider-PRO-game-cover-art.png",
+      "width": 480,
+      "height": 605,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Glider-PRO-game-cover-art.png"
+    },
+    "checkedAt": "2026-10-19T06:26:30.919Z",
+    "facts": {
+      "year": 1988,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "action game"
+      ]
+    }
+  },
+  "jet-set-radio-future": {
+    "key": "Jet Set Radio Future",
+    "wikipedia": {
+      "title": "Jet Set Radio Future",
+      "url": "https://en.wikipedia.org/wiki/Jet_Set_Radio_Future"
+    },
+    "qid": "Q1063810",
+    "summary": "Jet Set Radio Future is a 2002 action game developed by Smilebit and published by Sega for the Xbox. It is the sequel to the 2000 Dreamcast game Jet Set Radio, and as a re-imaging of the original game, Jet Set Radio Future maintains its predecessor's cel-shaded visuals while introducing refined gameplay mechanics, updated graphics, larger open world environments, new characters, an altered plot, a new soundtrack and multiplayer gameplay. As with the first game, the player controls members of the GG's, a youth street gang that uses inline skates to traverse a futuristic Tokyo, spraying graffiti, challenging rival gangs and evading authorities.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7a/JetSetRadioFuturebox.jpg",
+      "width": 480,
+      "height": 682,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:JetSetRadioFuturebox.jpg"
+    },
+    "checkedAt": "2026-10-19T06:26:31.229Z",
+    "facts": {
+      "year": 2002,
+      "developers": [
+        "Sega Sports R&D"
+      ],
+      "publishers": [],
+      "genres": [
+        "action game",
+        "sports"
+      ]
+    }
+  },
+  "moon-child": {
+    "key": "Moon Child",
+    "wikipedia": {
+      "title": "Moon Child (video game)",
+      "url": "https://en.wikipedia.org/wiki/Moon_Child_(video_game)"
+    },
+    "qid": "Q59202338",
+    "summary": "Moon Child is a 1997 side-scrolling platform video game developed by Team Hoi and published by Valkieser Publishing for Microsoft Windows. Initially developed for the Amiga, the game was moved to Windows due to the declining popularity of the platform. The game's story follows a small elf, who is tasked with saving the planet Utopia from a destructive techno-virus.",
+    "cover": null,
+    "checkedAt": "2026-10-19T06:26:31.442Z",
+    "facts": {
+      "year": 1997,
+      "developers": [
+        "Team Hoi"
+      ],
+      "publishers": [],
+      "genres": [
+        "action game",
+        "platform game"
+      ]
+    }
+  },
+  "openreliant": {
+    "key": "OpenReliant",
+    "wikipedia": null,
+    "checkedAt": "2026-10-19T06:26:31.823Z"
+  },
+  "pokemon-soulsilver": {
+    "key": "Pokémon SoulSilver",
+    "wikipedia": {
+      "title": "Pokémon HeartGold and SoulSilver",
+      "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_HeartGold_and_SoulSilver"
+    },
+    "qid": "Q611189",
+    "summary": "Pokémon HeartGold Version and Pokémon SoulSilver Version are 2009 remakes of the 1999 Game Boy Color role-playing video games Pokémon Gold and Silver, also including features from Pokémon Crystal. The games are part of the fourth generation of the Pokémon video game series, developed by Game Freak and published by The Pokémon Company and Nintendo for the Nintendo DS. In commemoration of the 10th anniversary of Gold and Silver, the games were released in Japan on September 12, 2009, and were later released in other regions during March 2010.\nHeartGold and SoulSilver take place in the Johto and Kanto Regions of the franchise's fictional universe, which features special creatures called Pokémon.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/cb/PokemonHGSSBox.jpg",
+      "width": 480,
+      "height": 219,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:PokemonHGSSBox.jpg"
+    },
+    "checkedAt": "2026-10-19T06:26:32.147Z",
+    "facts": {
+      "year": 2009,
+      "developers": [
+        "Game Freak"
+      ],
+      "publishers": [
+        "Nintendo",
+        "The Pokémon Company"
+      ],
+      "genres": [
+        "role-playing"
+      ]
+    }
+  },
+  "serious-sam-the-first-encounter-serious-sam-the-second-encounter": {
+    "key": "Serious Sam: The First Encounter / Serious Sam: The Second Encounter",
+    "wikipedia": null,
+    "checkedAt": "2026-10-19T06:26:32.568Z"
+  },
+  "shadow-of-the-colossus": {
+    "key": "Shadow of the Colossus",
+    "wikipedia": {
+      "title": "Shadow of the Colossus",
+      "url": "https://en.wikipedia.org/wiki/Shadow_of_the_Colossus"
+    },
+    "qid": "Q846051",
+    "summary": "Shadow of the Colossus is a 2005 action-adventure game developed and published by Sony Computer Entertainment for the PlayStation 2. It takes place in a fantasy setting and follows Wander, a young man who enters an isolated and abandoned region of the realm seeking the power to revive a girl named Mono. The player assumes the role of Wander as he embarks on a mission that might entail Mono's resurrection: to locate and destroy the colossi, sixteen massive beings spread across the forbidden land, which the protagonist traverses by horseback and on foot.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Shadow_of_the_Colossus_%282005%29_cover.jpg",
+      "width": 480,
+      "height": 671,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Shadow_of_the_Colossus_(2005)_cover.jpg"
+    },
+    "checkedAt": "2026-10-19T06:26:32.854Z",
+    "facts": {
+      "year": 2005,
+      "developers": [
+        "Team Ico"
+      ],
+      "publishers": [
+        "Sony Interactive Entertainment"
+      ],
+      "genres": [
+        "action-adventure game"
+      ]
+    }
+  },
+  "silent-hill-2": {
+    "key": "Silent Hill 2",
+    "wikipedia": {
+      "title": "Silent Hill 2",
+      "url": "https://en.wikipedia.org/wiki/Silent_Hill_2"
+    },
+    "qid": "Q752835",
+    "summary": "Silent Hill 2 is a 2001 survival horror video game developed by Konami's Team Silent and published by Konami for the PlayStation 2. The second installment in the Silent Hill series, Silent Hill 2 centers on James Sunderland, a widower who journeys to the town of Silent Hill after receiving a letter from his dead wife. An extended version containing a bonus scenario, Born from a Wish, and other additions was published for Xbox in December of the same year.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/95/Silent_Hill_2.jpg",
+      "width": 480,
+      "height": 692,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Silent_Hill_2.jpg"
+    },
+    "checkedAt": "2026-10-19T06:26:33.145Z",
+    "facts": {
+      "year": 2001,
+      "developers": [
+        "Team Silent"
+      ],
+      "publishers": [
+        "Konami"
+      ],
+      "genres": [
+        "psychological horror fiction"
+      ]
+    }
+  },
+  "star-wars-jedi-knight-ii-jedi-outcast": {
+    "key": "Star Wars Jedi Knight II: Jedi Outcast",
+    "wikipedia": {
+      "title": "Star Wars Jedi Knight II: Jedi Outcast",
+      "url": "https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight_II:_Jedi_Outcast"
+    },
+    "qid": "Q55298",
+    "summary": "Star Wars Jedi Knight II: Jedi Outcast is a 2002 first and third-person shooter video game developed by Raven Software for Windows and Mac OS. Westlake Interactive ported the game to Mac OS X, while the Xbox and GameCube versions were ported by Vicarious Visions; most versions were published by Activision and LucasArts, with only the Mac OS version published by Aspyr. The game is a sequel to 1997's Star Wars Jedi Knight: Dark Forces II, and the third main installment in the Star Wars: Jedi Knight series. The single-player campaign, set in the fictional Star Wars expanded universe two years after the Mysteries of the Sith expansion for Dark Forces II, follows returning protagonist Kyle Katarn, a mercenary working for the New Republic and former Jedi who cut his connection to the Force.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/40/Jedi_Outcast_pc_cover.jpg",
+      "width": 480,
+      "height": 681,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Jedi_Outcast_pc_cover.jpg"
+    },
+    "checkedAt": "2026-10-19T06:26:33.390Z",
+    "facts": {
+      "year": 2002,
+      "developers": [
+        "Raven Software"
+      ],
+      "publishers": [
+        "Lucasfilm Games"
+      ],
+      "genres": [
+        "first-person shooter",
+        "third-person shooter"
+      ]
+    }
+  },
+  "the-legend-of-zelda-links-awakening": {
+    "key": "The Legend of Zelda: Link's Awakening",
+    "wikipedia": {
+      "title": "The Legend of Zelda: Link's Awakening",
+      "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening"
+    },
+    "qid": "Q1060323",
+    "summary": "The Legend of Zelda: Link's Awakening is a 1993 action-adventure game developed and published by Nintendo for the Game Boy. It is the first installment in The Legend of Zelda series to be released on a handheld game console. Link's Awakening is one of the few Zelda games not to take place in the land of Hyrule, and it does not feature Princess Zelda or the Triforce relic.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c1/Link%27s_Awakening.png",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Link%27s_Awakening.png"
+    },
+    "checkedAt": "2026-10-19T06:26:34.003Z",
+    "facts": {
+      "year": 1993,
+      "developers": [
+        "Nintendo Entertainment Analysis & Development"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "action-adventure game"
+      ]
+    }
+  },
+  "tyrian-2000": {
+    "key": "Tyrian 2000",
+    "wikipedia": {
+      "title": "Tyrian (video game)",
+      "url": "https://en.wikipedia.org/wiki/Tyrian_(video_game)"
+    },
+    "qid": "Q1152304",
+    "summary": "Tyrian is a vertically scrolling shooter developed by Eclipse Software for MS-DOS and published in 1995 by Epic MegaGames. Tyrian was programmed by Jason Emery, illustrated by Daniel Cook, and its music composed by Alexander Brandon and Andras Molnar. A slightly enhanced version was published in 1999 as Tyrian 2000.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/73/Tryian_-_Box.jpg",
+      "width": 480,
+      "height": 595,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Tryian_-_Box.jpg"
+    },
+    "checkedAt": "2026-10-19T06:26:34.280Z"
   }
 }
