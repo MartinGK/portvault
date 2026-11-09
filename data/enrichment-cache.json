@@ -1901,7 +1901,7 @@
     }
   },
   "dodonpachi-saidaioujou": {
-    "key": "DoDonPachi Saidaioujou",
+    "key": "DoDonPachi SaiDaiOuJou",
     "wikipedia": {
       "title": "DoDonPachi SaiDaiOuJou",
       "url": "https://en.wikipedia.org/wiki/DoDonPachi_SaiDaiOuJou"
@@ -1915,7 +1915,7 @@
       "source": "Wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/File:DoDonPachi_SaiDaiOuJou_arcade_flyer.jpg"
     },
-    "checkedAt": "2026-10-15T15:44:11.308Z",
+    "checkedAt": "2026-11-09T07:04:31.767Z",
     "facts": {
       "year": 2012,
       "developers": [
@@ -9899,7 +9899,7 @@
     }
   },
   "driveclub": {
-    "key": "Driveclub",
+    "key": "DriveClub",
     "wikipedia": {
       "title": "Driveclub",
       "url": "https://en.wikipedia.org/wiki/Driveclub"
@@ -9913,7 +9913,7 @@
       "source": "Wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/File:Driveclub_box_art.jpg"
     },
-    "checkedAt": "2026-11-02T06:59:04.926Z",
+    "checkedAt": "2026-11-09T07:04:32.974Z",
     "facts": {
       "year": 2014,
       "developers": [
@@ -9983,13 +9983,13 @@
     }
   },
   "fate-unlimited-codes": {
-    "key": "Fate/unlimited codes",
+    "key": "Fate/Unlimited Codes",
     "wikipedia": {
       "title": "Fate/Unlimited Codes",
       "url": "https://en.wikipedia.org/wiki/Fate/Unlimited_Codes"
     },
     "qid": "Q427467",
-    "summary": "Fate/unlimited codes\n\nFate/Unlimited Codes is a fighting game developed by Eighting and published by Capcom. It was first released on June 11, 2008 for the Namco System 246 arcade system in Japan, later receiving a port to the PlayStation 2 in December 2008. An enhanced port for the PlayStation Portable would be released on June 18, 2009 in Japan.",
+    "summary": "Fate/Unlimited Codes is a fighting game developed by Eighting and published by Capcom. It was first released on June 11, 2008 for the Namco System 246 arcade system in Japan, later receiving a port to the PlayStation 2 in December 2008. An enhanced port for the PlayStation Portable would be released on June 18, 2009 in Japan.",
     "cover": {
       "url": "https://upload.wikimedia.org/wikipedia/en/5/5d/Fate-unlimited_codes_arcade_flyer.jpg",
       "width": 480,
@@ -9997,7 +9997,7 @@
       "source": "Wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/File:Fate-unlimited_codes_arcade_flyer.jpg"
     },
-    "checkedAt": "2026-10-26T06:27:59.937Z",
+    "checkedAt": "2026-11-09T07:04:33.883Z",
     "facts": {
       "year": 2008,
       "developers": [
@@ -10629,34 +10629,9 @@
     }
   },
   "soulcalibur-ii-hd-online": {
-    "key": "Soulcalibur II HD Online",
-    "wikipedia": {
-      "title": "Soulcalibur II",
-      "url": "https://en.wikipedia.org/wiki/Soulcalibur_II"
-    },
-    "qid": "Q2067832",
-    "summary": "Soulcalibur II is a 2002 fighting game developed and published by Namco. It is the third installment in the Soulcalibur series of weapon-based fighting games as the sequel to Soulcalibur (1998). Originally intended to be released on Sega's NAOMI arcade board, the game was built on the Namco System 246 board before being ported to the PlayStation 2, GameCube, and Xbox home consoles.",
-    "cover": {
-      "url": "https://upload.wikimedia.org/wikipedia/en/3/37/Soulcalibur_II_flyer.png",
-      "width": 480,
-      "height": 620,
-      "source": "Wikipedia",
-      "sourceUrl": "https://en.wikipedia.org/wiki/File:Soulcalibur_II_flyer.png"
-    },
-    "checkedAt": "2026-11-02T06:59:20.601Z",
-    "facts": {
-      "year": 2002,
-      "developers": [
-        "Project Soul"
-      ],
-      "publishers": [
-        "Namco"
-      ],
-      "genres": [
-        "3D fighting game",
-        "crossover fiction"
-      ]
-    }
+    "key": "SoulCalibur II HD Online",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:53.736Z"
   },
   "spider-man-web-of-shadows": {
     "key": "Spider-Man: Web of Shadows",
@@ -12698,5 +12673,1227 @@
     "key": "Xenia Manager",
     "wikipedia": null,
     "checkedAt": "2026-11-02T06:59:27.449Z"
+  },
+  "007-nightfire": {
+    "key": "007: Nightfire",
+    "wikipedia": {
+      "title": "James Bond 007: Nightfire",
+      "url": "https://en.wikipedia.org/wiki/James_Bond_007:_Nightfire"
+    },
+    "qid": "Q161188",
+    "summary": "James Bond 007: Nightfire (sometimes stylised NightFire) is a 2002 first-person shooter game published by Electronic Arts for the GameCube, PlayStation 2, Xbox and Microsoft Windows, with additional versions released for the Game Boy Advance in 2003, and Mac OS X in 2004. Eurocom developed the console versions, Gearbox Software developed the Windows version, and JV Games developed the Game Boy Advance version. The computer versions feature modifications to the storyline, different missions, and the removal of driving sections used in home console versions.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/82/007_-_Nightfire_Coverart.png",
+      "width": 480,
+      "height": 617,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:007_-_Nightfire_Coverart.png"
+    },
+    "checkedAt": "2026-11-09T07:04:27.084Z",
+    "facts": {
+      "year": 2002,
+      "developers": [
+        "Eurocom"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "first-person shooter"
+      ]
+    }
+  },
+  "3ds": {
+    "key": "3ds",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:27.635Z"
+  },
+  "ace-combat-3-electrosphere-recompiled": {
+    "key": "Ace Combat 3: Electrosphere Recompiled",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:28.093Z"
+  },
+  "astral-chain": {
+    "key": "Astral Chain",
+    "wikipedia": {
+      "title": "Astral Chain",
+      "url": "https://en.wikipedia.org/wiki/Astral_Chain"
+    },
+    "qid": "Q61727129",
+    "summary": "Astral Chain is a 2019 action-adventure game developed by PlatinumGames and published by Nintendo for the Nintendo Switch. It was directed by Takahisa Taura, who was previously lead game designer for Nier: Automata, under supervision by Devil May Cry and Bayonetta series creator Hideki Kamiya, and character designs from manga artist Masakazu Katsura.\nSet in a dystopian future Earth, the game follows the events of a special police task force that protect remnants of humanity from interdimensional creatures and aberrations that invade the planet, with the story centering on the task force's two new twin recruits.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/67/Astral_Chain.jpg",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Astral_Chain.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:28.453Z",
+    "facts": {
+      "year": 2019,
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "action game",
+        "action-adventure game",
+        "hack and slash",
+        "science fiction"
+      ]
+    }
+  },
+  "bayonetta-3": {
+    "key": "Bayonetta 3",
+    "wikipedia": {
+      "title": "Bayonetta 3",
+      "url": "https://en.wikipedia.org/wiki/Bayonetta_3"
+    },
+    "qid": "Q44997696",
+    "summary": "Bayonetta 3 is a 2022 action-adventure game developed by PlatinumGames and published by Nintendo for the Nintendo Switch. The game was directed by Yusuke Miyata and produced by Yuji Nakao, with series creator Hideki Kamiya as supervising director. It was announced in December 2017, and was released on October 28, 2022.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Bayonetta_3_cover.webp",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Bayonetta_3_cover.webp"
+    },
+    "checkedAt": "2026-11-09T07:04:28.783Z",
+    "facts": {
+      "year": 2022,
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "beat 'em up",
+        "character-action",
+        "action-adventure game",
+        "hack and slash"
+      ]
+    }
+  },
+  "bitburner": {
+    "key": "Bitburner",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:29.151Z"
+  },
+  "breath-of-the-wild": {
+    "key": "Breath of the Wild",
+    "wikipedia": {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild"
+    },
+    "qid": "Q17185964",
+    "summary": "The Legend of Zelda: Breath of the Wild is a 2017 action-adventure game developed by Nintendo EPD for the Wii U and Nintendo Switch. Set near the end of the Zelda timeline, it follows Link as he sets out to save Princess Zelda and prevent Calamity Ganon from destroying the world. The player explores the open world of Hyrule, collects items, and completes objectives such as puzzles and side quests.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+      "width": 480,
+      "height": 642,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:29.487Z"
+  },
+  "brogue": {
+    "key": "Brogue",
+    "wikipedia": {
+      "title": "Brogue (video game)",
+      "url": "https://en.wikipedia.org/wiki/Brogue_(video_game)"
+    },
+    "qid": "Q19891799",
+    "summary": "Brogue is a free and open-source roguelike computer video game created by Brian Walker. As in its predecessor Rogue, the objective is for the player (represented by the character @) to descend to the 26th floor of the Dungeons of Doom, retrieve the Amulet of Yendor, and return to the surface. The player also has the option of delving deeper into the dungeon to seek lumenstones and achieve a higher score.",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/0f/Brogue_title.png/500px-Brogue_title.png",
+      "width": 480,
+      "height": 296,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Brogue_title.png"
+    },
+    "checkedAt": "2026-11-09T07:04:29.844Z",
+    "facts": {
+      "year": null,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "roguelike"
+      ]
+    }
+  },
+  "castlevania-grimoire-of-souls": {
+    "key": "Castlevania: Grimoire of Souls",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:30.360Z"
+  },
+  "cemu": {
+    "key": "Cemu",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:30.905Z"
+  },
+  "cortex-command-community-project": {
+    "key": "Cortex Command Community Project",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:31.436Z"
+  },
+  "dosbox-x": {
+    "key": "DOSBox-X",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:32.277Z"
+  },
+  "dragon-ball-z-budokai": {
+    "key": "Dragon Ball Z: Budokai",
+    "wikipedia": {
+      "title": "Dragon Ball Z: Budokai (video game)",
+      "url": "https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_(video_game)"
+    },
+    "qid": "Q587752",
+    "summary": "Dragon Ball Z: Budokai, released as Dragon Ball Z (ドラゴンボールZ, Doragon Bōru Zetto) in Japan, is a fighting video game developed by Dimps for PlayStation 2 release in 2002 and GameCube release in 2003. The first game in the Dragon Ball Z: Budokai series, it is based on the Japanese anime series Dragon Ball Z, part of the manga franchise Dragon Ball. It was published in Japan by Bandai and in North America by Infogrames, and was the first console Dragon Ball video game since Dragon Ball GT: Final Bout (1997).",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/cb/Dbzbox.jpg",
+      "width": 480,
+      "height": 617,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Dbzbox.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:32.620Z",
+    "facts": {
+      "year": 2002,
+      "developers": [
+        "Dimps"
+      ],
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ],
+      "genres": [
+        "fighting game"
+      ]
+    }
+  },
+  "dungeon-crawl-stone-soup": {
+    "key": "Dungeon Crawl Stone Soup",
+    "wikipedia": {
+      "title": "Dungeon Crawl Stone Soup",
+      "url": "https://en.wikipedia.org/wiki/Dungeon_Crawl_Stone_Soup"
+    },
+    "qid": "Q5315124",
+    "summary": "Dungeon Crawl Stone Soup (DCSS) is a free and open source roguelike computer game and the community-developed successor to the 1997 roguelike game Linley's Dungeon Crawl, originally programmed by Linley Henzell. It has been identified as one of the \"major roguelikes\" by John Harris.\nDungeon Crawl Stone Soup was first among roguelikes in ASCII Dreams' Roguelike of the Year in 2008, in a poll of 371 roguelike players.",
+    "cover": null,
+    "checkedAt": "2026-11-09T07:04:33.215Z",
+    "facts": {
+      "year": 2006,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "roguelike"
+      ]
+    }
+  },
+  "fallout-1": {
+    "key": "Fallout 1",
+    "wikipedia": {
+      "title": "Fallout (video game)",
+      "url": "https://en.wikipedia.org/wiki/Fallout_(video_game)"
+    },
+    "qid": "Q60102",
+    "summary": "Fallout (also known as Fallout: A Post Nuclear Role Playing Game) is a 1997 role-playing video game developed and published by Interplay Productions, set in a mid-22nd century post-apocalyptic and retro-futuristic world, decades after a global nuclear war led by the United States and China. Fallout's protagonist, the Vault Dweller, inhabits an underground nuclear shelter. The player must scour the surrounding wasteland for a computer chip that can fix the Vault's failed water supply system.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/af/Fallout.jpg",
+      "width": 480,
+      "height": 383,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Fallout.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:33.536Z"
+  },
+  "flare-empyrean-campaign": {
+    "key": "Flare: Empyrean Campaign",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:34.384Z"
+  },
+  "flipendo": {
+    "key": "Flipendo",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:34.813Z"
+  },
+  "flycast": {
+    "key": "Flycast",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:35.251Z"
+  },
+  "freeciv21": {
+    "key": "Freeciv21",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:35.732Z"
+  },
+  "freeorion": {
+    "key": "freeorion",
+    "wikipedia": {
+      "title": "Master of Orion",
+      "url": "https://en.wikipedia.org/wiki/Master_of_Orion"
+    },
+    "qid": "Q1155454",
+    "summary": "Master of Orion (abbreviated as MoO) is a turn-based, 4X science fiction strategy game in which the player leads one of ten races to dominate the galaxy through a combination of diplomacy and conquest while developing technology, exploring and colonizing star systems.\nSometimes described as a scifi-themed spin-off of classic Civilization, the game has proven to be quite enduring, becoming a cult classic in its niche of sci-fi-themed 4X strategy games. It has received several direct sequels, and additionally, a number of other games published since have been described as inspired by it, with reviewers and players divided on whether any has succeeded at recapturing the feeling and gameplay of the original.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/55/Master_of_Orion_cover.jpg",
+      "width": 480,
+      "height": 551,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Master_of_Orion_cover.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:36.063Z"
+  },
+  "friday-night-funkin": {
+    "key": "Friday Night Funkin",
+    "wikipedia": {
+      "title": "Friday Night Funkin'",
+      "url": "https://en.wikipedia.org/wiki/Friday_Night_Funkin%27"
+    },
+    "qid": "Q105731119",
+    "summary": "Friday Night Funkin' is an upcoming  rhythm video game developed by The Funkin' Crew Inc. It revolves around the player character, Boyfriend, who must defeat a variety of opponents in singing and rapping contests in order to continue dating his love interest, Girlfriend. Gameplay involves hitting notes with timed inputs while avoiding running out of health for the duration of the song.",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d2/Friday_Night_Funkin%27_logo.svg/500px-Friday_Night_Funkin%27_logo.svg.png",
+      "width": 480,
+      "height": 307,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Friday_Night_Funkin%27_logo.svg"
+    },
+    "checkedAt": "2026-11-09T07:04:36.405Z",
+    "facts": {
+      "year": 2019,
+      "developers": [
+        "ninjamuffin99"
+      ],
+      "publishers": [
+        "ninjamuffin99"
+      ],
+      "genres": [
+        "rhythm game"
+      ]
+    }
+  },
+  "gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned": {
+    "key": "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
+    "wikipedia": {
+      "title": "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
+      "url": "https://en.wikipedia.org/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned"
+    },
+    "qid": "Q2526511",
+    "summary": "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned is a point-and-click adventure game created by Jane Jensen, developed and published by Sierra Studios, and released for Microsoft Windows in 1999. The sequel to 1995's The Beast Within: A Gabriel Knight Mystery, the game's story focuses on the lives of Gabriel Knight (voiced once again by Tim Curry) and Grace Nakimura as they become involved in a case to track down a kidnapped infant, becoming embroiled in a mystery that involves vampires, the Knights Templar, the Holy Grail, and Jesus within the Languedoc province of France; the story itself is inspired by a real-life treasure conspiracy associated to the area.\nFollowing the previous installment, Sierra opted to render the third game in the series in 3D graphics, with a heightened level of puzzle solving and exploration.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5d/Gabriel_Knight_3_-_Blood_of_the_Sacred%2C_Blood_of_the_Damned_Coverart.png",
+      "width": 480,
+      "height": 578,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Gabriel_Knight_3_-_Blood_of_the_Sacred,_Blood_of_the_Damned_Coverart.png"
+    },
+    "checkedAt": "2026-11-09T07:04:36.730Z",
+    "facts": {
+      "year": 1999,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "graphic adventure game"
+      ]
+    }
+  },
+  "god-of-war-ii": {
+    "key": "God of War II",
+    "wikipedia": {
+      "title": "God of War II",
+      "url": "https://en.wikipedia.org/wiki/God_of_War_II"
+    },
+    "qid": "Q2252689",
+    "summary": "God of War II is a 2007 action-adventure game developed by Santa Monica Studio and published by Sony Computer Entertainment (SCE). First released for the PlayStation 2 on March 13, 2007, the game is the second installment in the God of War series, the seventh chronologically, and the sequel to 2005's God of War. It is based on Greek mythology and set in ancient Greece, with vengeance as its central motif.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/25/God_of_War_II_cover.jpg",
+      "width": 480,
+      "height": 681,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:God_of_War_II_cover.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:37.073Z",
+    "facts": {
+      "year": 2007,
+      "developers": [
+        "Santa Monica Studio"
+      ],
+      "publishers": [
+        "Sony Interactive Entertainment"
+      ],
+      "genres": [
+        "hack and slash",
+        "action-adventure game"
+      ]
+    }
+  },
+  "goldeneye-pc-port": {
+    "key": "GoldenEye PC Port",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:37.665Z"
+  },
+  "hitman-world-of-assassination-trilogy": {
+    "key": "HITMAN World of Assassination Trilogy",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:38.201Z"
+  },
+  "initial-d-arcade-stage-3": {
+    "key": "Initial D Arcade Stage 3",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:38.724Z"
+  },
+  "kameo-elements-of-power": {
+    "key": "Kameo: Elements of Power",
+    "wikipedia": {
+      "title": "Kameo",
+      "url": "https://en.wikipedia.org/wiki/Kameo"
+    },
+    "qid": "Q2712020",
+    "summary": "Kameo: Elements of Power is a 2005 action-adventure video game developed by Rare and published by Microsoft Game Studios. The player controls Kameo, a 16-year-old elf princess, who must travel across a fantasy land and its realms, rescuing her family while collecting Elemental Sprites and Warriors in a beat 'em up style combat system, in order to defeat the troll king Thorn and her treacherous sister Kalus. Kameo's ten elemental powers let her transform into creatures and use their varied abilities to solve combat-oriented puzzles and progress through the game's levels.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0f/Kameocover.jpg",
+      "width": 480,
+      "height": 683,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Kameocover.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:39.087Z",
+    "facts": {
+      "year": 2005,
+      "developers": [
+        "Rare Ltd."
+      ],
+      "publishers": [
+        "Microsoft"
+      ],
+      "genres": [
+        "action-adventure game"
+      ]
+    }
+  },
+  "lichii": {
+    "key": "Lichii",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:39.476Z"
+  },
+  "ludo": {
+    "key": "ludo",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:40.130Z"
+  },
+  "luigis-mansion": {
+    "key": "Luigi's Mansion",
+    "wikipedia": {
+      "title": "Luigi's Mansion",
+      "url": "https://en.wikipedia.org/wiki/Luigi%27s_Mansion"
+    },
+    "qid": "Q984029",
+    "summary": "Luigi's Mansion is a 2001 action-adventure game developed and published by Nintendo. The game was a launch title for the GameCube and was the first game in the Mario franchise to be released for the console; it was released in Japan on September 14, 2001, in North America on November 18, 2001, in Europe on May 3, 2002, and in Australia on May 17, 2002. It is the third video game in which Luigi is the main character instead of Mario, after Mario Is Missing!",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Lmbox.jpg",
+      "width": 480,
+      "height": 680,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Lmbox.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:40.484Z",
+    "facts": {
+      "year": 2001,
+      "developers": [
+        "Nintendo Entertainment Analysis & Development",
+        "Grezzo"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "action-adventure game"
+      ]
+    }
+  },
+  "marvel-nemesis-rise-of-the-imperfects": {
+    "key": "Marvel Nemesis: Rise of the Imperfects",
+    "wikipedia": {
+      "title": "Marvel Nemesis: Rise of the Imperfects",
+      "url": "https://en.wikipedia.org/wiki/Marvel_Nemesis:_Rise_of_the_Imperfects"
+    },
+    "qid": "Q3179893",
+    "summary": "Marvel Nemesis: Rise of the Imperfects is a fighting game for the PlayStation 2, Xbox, GameCube, Nintendo DS, and PlayStation Portable, which ties into the Marvel Nemesis comic book series. Developed by Nihilistic Software and EA Canada for consoles, EA Canada's Team Fusion division for PlayStation Portable, and Sensory Sweep Studios for DS, and published by Electronic Arts, the game was released in North America in September 2005 and in PAL territories in October 2005. The game focuses on Marvel Comics characters facing a new team of super villains known as The Imperfects.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/19/Marvel_Nemesis.jpg",
+      "width": 480,
+      "height": 808,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Marvel_Nemesis.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:40.813Z",
+    "facts": {
+      "year": 2005,
+      "developers": [
+        "nStigate Games"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "fighting game"
+      ]
+    }
+  },
+  "megazeux": {
+    "key": "MegaZeux",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:41.223Z"
+  },
+  "melonds": {
+    "key": "melonDS",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:41.681Z"
+  },
+  "metroid": {
+    "key": "Metroid",
+    "wikipedia": {
+      "title": "Metroid (video game)",
+      "url": "https://en.wikipedia.org/wiki/Metroid_(video_game)"
+    },
+    "qid": "Q2530723",
+    "summary": "Metroid is a 1986 action-adventure game developed and published by Nintendo. The first installment in the Metroid series, it was originally released in Japan for the Family Computer Disk System in August 1986. North America received a release in August 1987 on the Nintendo Entertainment System, with the European release following in January 1988.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5d/Metroid_boxart.jpg",
+      "width": 480,
+      "height": 692,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Metroid_boxart.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:42.060Z",
+    "facts": {
+      "year": 1986,
+      "developers": [
+        "Nintendo Research & Development 1"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "Metroidvania"
+      ]
+    }
+  },
+  "nanosaur": {
+    "key": "Nanosaur",
+    "wikipedia": {
+      "title": "Nanosaur",
+      "url": "https://en.wikipedia.org/wiki/Nanosaur"
+    },
+    "qid": "Q3335759",
+    "summary": "Nanosaur is a platform third-person shooter video game developed by Pangea Software and published by Ideas From the Deep for Mac OS 9 and Microsoft Windows. The player takes on the form of a Nanosaur, a genetically engineered intelligent dinosaur from the future, sent back in time just prior to the Cretaceous–Paleogene extinction event.",
+    "cover": null,
+    "checkedAt": "2026-11-09T07:04:42.306Z",
+    "facts": {
+      "year": 1998,
+      "developers": [
+        "Pangea Software"
+      ],
+      "publishers": [],
+      "genres": [
+        "role-playing",
+        "third-person shooter"
+      ]
+    }
+  },
+  "nanosaur-ii-hatchling": {
+    "key": "Nanosaur II: Hatchling",
+    "wikipedia": {
+      "title": "Nanosaur",
+      "url": "https://en.wikipedia.org/wiki/Nanosaur"
+    },
+    "qid": "Q3335759",
+    "summary": "Nanosaur is a platform third-person shooter video game developed by Pangea Software and published by Ideas From the Deep for Mac OS 9 and Microsoft Windows. The player takes on the form of a Nanosaur, a genetically engineered intelligent dinosaur from the future, sent back in time just prior to the Cretaceous–Paleogene extinction event.",
+    "cover": null,
+    "checkedAt": "2026-11-09T07:04:42.551Z",
+    "facts": {
+      "year": 1998,
+      "developers": [
+        "Pangea Software"
+      ],
+      "publishers": [],
+      "genres": [
+        "role-playing",
+        "third-person shooter"
+      ]
+    }
+  },
+  "naughty-bear-gold-edition": {
+    "key": "Naughty Bear Gold Edition",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:43.050Z"
+  },
+  "nba-street-v3": {
+    "key": "NBA Street V3",
+    "wikipedia": {
+      "title": "NBA Street V3",
+      "url": "https://en.wikipedia.org/wiki/NBA_Street_V3"
+    },
+    "qid": "Q2271365",
+    "summary": "NBA Street V3 is a 2005 basketball video game developed by EA Canada and published by Electronic Arts under the EA Sports BIG label for the GameCube, PlayStation 2, and Xbox. It is the third installment in the NBA Street series. The game was later ported to the PlayStation Portable under the title NBA Street Showdown.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7f/NBA_Street_V3_Coverart.png",
+      "width": 480,
+      "height": 681,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:NBA_Street_V3_Coverart.png"
+    },
+    "checkedAt": "2026-11-09T07:04:43.382Z",
+    "facts": {
+      "year": 2005,
+      "developers": [
+        "EA Vancouver"
+      ],
+      "publishers": [
+        "EA Sports Big"
+      ],
+      "genres": [
+        "basketball"
+      ]
+    }
+  },
+  "new-super-mario-bros-ds": {
+    "key": "New Super Mario Bros. DS",
+    "wikipedia": {
+      "title": "New Super Mario Bros.",
+      "url": "https://en.wikipedia.org/wiki/New_Super_Mario_Bros."
+    },
+    "qid": "Q301555",
+    "summary": "New Super Mario Bros. is a 2006 platform game developed and published by Nintendo for the Nintendo DS. It was first released in May 2006 in North America and Japan, in Europe and Australia in June 2006, in South Korea in March 2007, and in China in July 2009. It is the first installment in the New Super Mario Bros.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/db/NewSuperMarioBrothers.jpg",
+      "width": 480,
+      "height": 431,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:NewSuperMarioBrothers.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:43.712Z",
+    "facts": {
+      "year": 2006,
+      "developers": [
+        "Nintendo"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "platform game"
+      ]
+    }
+  },
+  "ninja-gaiden-black": {
+    "key": "Ninja Gaiden Black",
+    "wikipedia": {
+      "title": "Ninja Gaiden (2004 video game)",
+      "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)"
+    },
+    "qid": "Q976995",
+    "summary": "Ninja Gaiden is a 2004 action-adventure game developed by Team Ninja and published by Tecmo for the Xbox. A reboot of the Ninja Gaiden franchise, players control Ryu Hayabusa, a master ninja, in his quest to recover a stolen sword and avenge the slaughter of his clan. It is set in the same world as Team Ninja's Dead or Alive fighting games.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1d/Ninja_Gaiden_%282004_video_game%29.png",
+      "width": 480,
+      "height": 581,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Ninja_Gaiden_(2004_video_game).png"
+    },
+    "checkedAt": "2026-11-09T07:04:44.062Z",
+    "facts": {
+      "year": 2004,
+      "developers": [
+        "Team Ninja"
+      ],
+      "publishers": [
+        "Tecmo"
+      ],
+      "genres": [
+        "action-adventure game",
+        "crossover fiction"
+      ]
+    }
+  },
+  "nox": {
+    "key": "Nox",
+    "wikipedia": {
+      "title": "Nox (video game)",
+      "url": "https://en.wikipedia.org/wiki/Nox_(video_game)"
+    },
+    "qid": "Q1330428",
+    "summary": "Nox is an action role-playing game developed and published by Westwood Studios and Electronic Arts in 2000 for Microsoft Windows. It details the story of Jack, a young man from Earth who is pulled into a high fantasy parallel universe and has to defeat the evil sorceress Hecubah and her army of necromancers to return home. Depending on the player's choice of character class at the beginning of the game (warrior, conjurer, or wizard), the game follows three largely different linear storylines, each leading to its unique ending.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/15/Nox_%28video_game_-_box_art%29.jpg",
+      "width": 480,
+      "height": 573,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Nox_(video_game_-_box_art).jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:44.411Z",
+    "facts": {
+      "year": 2000,
+      "developers": [
+        "Westwood Pacific"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "action role-playing game"
+      ]
+    }
+  },
+  "osu": {
+    "key": "osu",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:45.059Z"
+  },
+  "pikmin-and-pikmin-2": {
+    "key": "Pikmin & Pikmin 2",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:45.492Z"
+  },
+  "playstation-2": {
+    "key": "PlayStation 2",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:46.294Z"
+  },
+  "pokemon-fulldex": {
+    "key": "Pokémon Fulldex",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:46.684Z"
+  },
+  "pokewilds": {
+    "key": "PokeWilds",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:47.123Z"
+  },
+  "pokopia": {
+    "key": "Pokopia",
+    "wikipedia": {
+      "title": "Pokémon Pokopia",
+      "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Pokopia"
+    },
+    "qid": "Q136231470",
+    "summary": "Pokémon Pokopia is a social simulation game co-developed by Game Freak and Koei Tecmo's Omega Force and published by Nintendo and The Pokémon Company for the Nintendo Switch 2. It is a spin-off of the main Pokémon series. Pokémon Pokopia stars a Ditto that uses its ability to transform to imitate a human, using this ability to help cultivate the post-apocalyptic world around it and assist other Pokémon it finds along the way.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6a/Pok%C3%A9mon_Pokopia_box_art.png",
+      "width": 480,
+      "height": 618,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Pok%C3%A9mon_Pokopia_box_art.png"
+    },
+    "checkedAt": "2026-11-09T07:04:47.444Z",
+    "facts": {
+      "year": 2026,
+      "developers": [
+        "The Pokémon Company",
+        "Game Freak",
+        "Omega Force"
+      ],
+      "publishers": [
+        "Nintendo",
+        "The Pokémon Company"
+      ],
+      "genres": [
+        "life simulation game"
+      ]
+    }
+  },
+  "ppsspp": {
+    "key": "PPSSPP",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:48.033Z"
+  },
+  "prism-launcher": {
+    "key": "Prism Launcher",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:48.503Z"
+  },
+  "pscoverdl": {
+    "key": "PSCoverDL",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:48.895Z"
+  },
+  "ratchet-and-clank-a-crack-in-time": {
+    "key": "Ratchet & Clank: A Crack in Time",
+    "wikipedia": {
+      "title": "Ratchet & Clank Future: A Crack in Time",
+      "url": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank_Future:_A_Crack_in_Time"
+    },
+    "qid": "Q2312963",
+    "summary": "Ratchet & Clank Future: A Crack in Time (known as Ratchet & Clank: A Crack in Time in most PAL countries and Ratchet & Clank Future 2 in Japan) is a 2009 third-person shooter platform video game developed by Insomniac Games and published by Sony Computer Entertainment for the PlayStation 3. It is the seventh main installment in the Ratchet & Clank series and the third in its Future saga.\nUpon release, the game received critical acclaim, with praise particularly aimed at the story, visuals, and gameplay.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/44/Ratchet_%26_Clank_Future-_A_Crack_in_Time.jpg",
+      "width": 480,
+      "height": 558,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Ratchet_%26_Clank_Future-_A_Crack_in_Time.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:49.218Z",
+    "facts": {
+      "year": 2009,
+      "developers": [
+        "Insomniac Games"
+      ],
+      "publishers": [
+        "Sony Interactive Entertainment"
+      ],
+      "genres": [
+        "platform game"
+      ]
+    }
+  },
+  "ratchet-and-clank-tools-of-destruction": {
+    "key": "Ratchet & Clank: Tools of Destruction",
+    "wikipedia": {
+      "title": "Ratchet & Clank Future: Tools of Destruction",
+      "url": "https://en.wikipedia.org/wiki/Ratchet_%26_Clank_Future:_Tools_of_Destruction"
+    },
+    "qid": "Q2322873",
+    "summary": "Ratchet & Clank Future: Tools of Destruction (known as Ratchet & Clank: Tools of Destruction in most PAL countries and Ratchet & Clank Future in Japan) is a 2007 third-person shooter platform video game developed by Insomniac Games and published by Sony Computer Entertainment for the PlayStation 3. It is the fifth main installment of the Ratchet & Clank series and the first to not be released on the PlayStation 2 or PlayStation Portable. It is the first installment of the series' Future saga.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/92/Ratchet_%26_Clank_Future_Tools_of_Destruction_North_American_cover.png",
+      "width": 480,
+      "height": 550,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Ratchet_%26_Clank_Future_Tools_of_Destruction_North_American_cover.png"
+    },
+    "checkedAt": "2026-11-09T07:04:49.548Z",
+    "facts": {
+      "year": 2007,
+      "developers": [
+        "Insomniac Games"
+      ],
+      "publishers": [
+        "Sony Interactive Entertainment"
+      ],
+      "genres": [
+        "platform game"
+      ]
+    }
+  },
+  "rayman-control-panel": {
+    "key": "Rayman Control Panel",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:50.048Z"
+  },
+  "resident-evil-outbreak": {
+    "key": "Resident Evil Outbreak",
+    "wikipedia": {
+      "title": "Resident Evil Outbreak",
+      "url": "https://en.wikipedia.org/wiki/Resident_Evil_Outbreak"
+    },
+    "qid": "Q2088616",
+    "summary": "Resident Evil Outbreak is a survival horror video game developed and published by Capcom for the PlayStation 2. It was released on December 11, 2003 in Japan, on March 30, 2004 in North America, and on September 17, 2004 in PAL regions. It was the first entry in the Resident Evil video game series to feature cooperative gameplay and online multiplayer support, although online support was not available for the PAL versions of the game.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/ad/Re_outbreak_a.jpg",
+      "width": 480,
+      "height": 719,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Re_outbreak_a.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:50.379Z",
+    "facts": {
+      "year": 2003,
+      "developers": [
+        "Capcom"
+      ],
+      "publishers": [
+        "Capcom"
+      ],
+      "genres": [
+        "action-adventure game"
+      ]
+    }
+  },
+  "sega-saturn": {
+    "key": "Sega Saturn",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:50.970Z"
+  },
+  "serious-sam-classic-the-first-encounter": {
+    "key": "Serious Sam Classic The First Encounter",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:51.520Z"
+  },
+  "shadps4-qt-launcher": {
+    "key": "ShadPS4 QT Launcher",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:52.010Z"
+  },
+  "shin-ryu-mod-manager": {
+    "key": "Shin Ryu Mod Manager",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:52.472Z"
+  },
+  "sonic-and-the-black-knight": {
+    "key": "Sonic and the Black Knight",
+    "wikipedia": {
+      "title": "Sonic and the Black Knight",
+      "url": "https://en.wikipedia.org/wiki/Sonic_and_the_Black_Knight"
+    },
+    "qid": "Q2454500",
+    "summary": "Sonic and the Black Knight is a 2009 platform game developed by Sonic Team and published by Sega for the Wii. A spin-off of the Sonic the Hedgehog series, it is the first and only Sonic video game in the franchise to not include the franchise's main antagonist, Dr. Eggman in any way, as well as the second and final entry in the Sonic Storybook sub-series following Sonic and the Secret Rings (2007), and involves Sonic being transported to the story of King Arthur by wizard Merlina, under the pretense that they are attempting to stop a corrupted Arthur (the Black Knight); however, it is later revealed that there was no corruption and they must stop Merlina's misguided attempt to prevent the legend's fate from occurring.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e3/Sonic_and_the_Black_Knight_Cover.jpg",
+      "width": 480,
+      "height": 672,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Sonic_and_the_Black_Knight_Cover.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:52.799Z",
+    "facts": {
+      "year": 2009,
+      "developers": [
+        "Sonic Team"
+      ],
+      "publishers": [],
+      "genres": [
+        "adventure",
+        "action game",
+        "hack and slash",
+        "platform game"
+      ]
+    }
+  },
+  "sonic-robo-blast-2": {
+    "key": "Sonic Robo Blast 2",
+    "wikipedia": {
+      "title": "Sonic Robo Blast 2",
+      "url": "https://en.wikipedia.org/wiki/Sonic_Robo_Blast_2"
+    },
+    "qid": "Q6132261",
+    "summary": "Sonic Robo Blast 2 (often abbreviated SRB2) is a platform game made within a modified version of id Software's Doom engine. It is a free Sonic the Hedgehog fan game inspired by the original Sega Genesis games that \"attempts to recreate their design in 3D\", and was the first fan-made 3D Sonic game created. The game has received consistent support throughout its development of over 25 years, which has been attributed to a large modding community.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6d/Srb2_22_title.png",
+      "width": 480,
+      "height": 300,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Srb2_22_title.png"
+    },
+    "checkedAt": "2026-11-09T07:04:53.209Z",
+    "facts": {
+      "year": 1998,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "platform game"
+      ]
+    }
+  },
+  "srb2kart": {
+    "key": "SRB2Kart",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:54.187Z"
+  },
+  "star-wars-battlefront-renegade-squadron": {
+    "key": "Star Wars Battlefront: Renegade Squadron",
+    "wikipedia": {
+      "title": "Star Wars Battlefront: Renegade Squadron",
+      "url": "https://en.wikipedia.org/wiki/Star_Wars_Battlefront:_Renegade_Squadron"
+    },
+    "qid": "Q54864",
+    "summary": "Star Wars Battlefront: Renegade Squadron is a third-person shooter video game based on the Star Wars franchise. It is the third entry in the Star Wars: Battlefront series and the first handheld exclusive. It was released on October 9, 2007 in North America and later in Australia and Europe, as a PlayStation Portable (PSP) exclusive.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/Star_Wars_Battlefront_-_Renegade_Squadron_Coverart.png",
+      "width": 480,
+      "height": 833,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Star_Wars_Battlefront_-_Renegade_Squadron_Coverart.png"
+    },
+    "checkedAt": "2026-11-09T07:04:54.495Z",
+    "facts": {
+      "year": 2007,
+      "developers": [
+        "Rebellion Developments"
+      ],
+      "publishers": [
+        "Lucasfilm Games"
+      ],
+      "genres": [
+        "first-person shooter",
+        "third-person shooter",
+        "grand strategy wargame"
+      ]
+    }
+  },
+  "starcraft": {
+    "key": "StarCraft",
+    "wikipedia": {
+      "title": "StarCraft (video game)",
+      "url": "https://en.wikipedia.org/wiki/StarCraft_(video_game)"
+    },
+    "qid": "Q165929",
+    "summary": "StarCraft is a real-time strategy video game developed and published by Blizzard Entertainment for Microsoft Windows. The first installment of the video game series of the same name, it was released in 1998. A Classic Mac OS version was released in 1999, and a Nintendo 64 port co-developed with Mass Media and published by Nintendo was released in 2000.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/93/StarCraft_box_art.jpg",
+      "width": 480,
+      "height": 606,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:StarCraft_box_art.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:54.889Z"
+  },
+  "stepmania": {
+    "key": "StepMania",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:55.441Z"
+  },
+  "streets-of-rage": {
+    "key": "Streets of Rage",
+    "wikipedia": {
+      "title": "Streets of Rage (video game)",
+      "url": "https://en.wikipedia.org/wiki/Streets_of_Rage_(video_game)"
+    },
+    "qid": "Q1143285",
+    "summary": "Streets of Rage is a 1991 beat 'em up video game developed and published by Sega for the Sega Genesis. Players control one of three former police officers turned vigilantes who battle a crime syndicate. It establishes many conventions of the Streets of Rage series, such as two-player cooperative play and an acclaimed techno soundtrack from composer Yuzo Koshiro.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/06/Streets_of_Rage_%28cover%29.jpg",
+      "width": 480,
+      "height": 727,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Streets_of_Rage_(cover).jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:55.795Z",
+    "facts": {
+      "year": 1991,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "side-scrolling beat 'em up"
+      ]
+    }
+  },
+  "super-mario-all-stars": {
+    "key": "Super Mario All-Stars",
+    "wikipedia": {
+      "title": "Super Mario All-Stars",
+      "url": "https://en.wikipedia.org/wiki/Super_Mario_All-Stars"
+    },
+    "qid": "Q1058903",
+    "summary": "Super Mario All-Stars is a 1993 platform game compilation developed and published by Nintendo for the Super Nintendo Entertainment System (SNES). It contains remakes of four Super Mario games released for the Nintendo Entertainment System (NES) and the Famicom Disk System: Super Mario Bros. (1985), Super Mario Bros.: The Lost Levels (1986; released as Super Mario Bros.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3c/Super_Mario_All_Stars_%28game_box_art%29.jpg",
+      "width": 480,
+      "height": 335,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Super_Mario_All_Stars_(game_box_art).jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:57.032Z",
+    "facts": {
+      "year": 1993,
+      "developers": [
+        "Nintendo Entertainment Analysis & Development",
+        "Nintendo"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "platform game"
+      ]
+    }
+  },
+  "super-mario-war": {
+    "key": "Super Mario War",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:57.570Z"
+  },
+  "supertux": {
+    "key": "SuperTux",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:58.135Z"
+  },
+  "supertuxkart": {
+    "key": "SuperTuxKart",
+    "wikipedia": {
+      "title": "SuperTuxKart",
+      "url": "https://en.wikipedia.org/wiki/SuperTuxKart"
+    },
+    "qid": "Q971909",
+    "summary": "SuperTuxKart (STK) is a free and open-source kart racing game, distributed under the terms of the GNU General Public License, version 3. Its initial version was released in 2007. It features mascots of various open-source projects.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Logo_de_SuperTuxKart.png",
+      "width": 480,
+      "height": 362,
+      "source": "Wikipedia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Logo_de_SuperTuxKart.png"
+    },
+    "checkedAt": "2026-11-09T07:04:58.489Z",
+    "facts": {
+      "year": 2004,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "racing",
+        "kart racing game",
+        "mascot racer"
+      ]
+    }
+  },
+  "surge-the-rabbit": {
+    "key": "Surge the Rabbit",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:04:58.955Z"
+  },
+  "syphon-filter-2": {
+    "key": "Syphon Filter 2",
+    "wikipedia": {
+      "title": "Syphon Filter 2",
+      "url": "https://en.wikipedia.org/wiki/Syphon_Filter_2"
+    },
+    "qid": "Q739782",
+    "summary": "Syphon Filter 2 is a 2000 third-person shooter video game developed by Eidetic and published by Sony Computer Entertainment for the PlayStation. It is the second installment in the Syphon Filter franchise and a sequel to 1999 Syphon Filter. It is the last game in the series to be released by 989 Studios in North America.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Syphon_Filter_2_US_Cover.jpg",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Syphon_Filter_2_US_Cover.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:59.268Z",
+    "facts": {
+      "year": 2000,
+      "developers": [
+        "Bend Studio"
+      ],
+      "publishers": [
+        "989 Studios"
+      ],
+      "genres": [
+        "third-person shooter",
+        "stealth game"
+      ]
+    }
+  },
+  "terraria": {
+    "key": "Terraria",
+    "wikipedia": {
+      "title": "Terraria",
+      "url": "https://en.wikipedia.org/wiki/Terraria"
+    },
+    "qid": "Q332697",
+    "summary": "Terraria ( tə-RAIR-ee-ə) is a 2011 action-adventure video game developed and published by Re-Logic. As a sandbox game, Terraria has no set goals. After creating the player character and choosing the game's difficulty, the player is placed in a two-dimensional, procedurally generated world where they explore, fight enemies, gather resources, and craft equipment.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1a/Terraria_Steam_artwork.jpg",
+      "width": 480,
+      "height": 720,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Terraria_Steam_artwork.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:59.601Z",
+    "facts": {
+      "year": 2011,
+      "developers": [
+        "Engine Software",
+        "505 Games",
+        "Re-Logic"
+      ],
+      "publishers": [
+        "505 Games",
+        "Re-Logic",
+        "Pipeworks Software",
+        "Spike Chunsoft"
+      ],
+      "genres": [
+        "action-adventure game",
+        "sandbox game",
+        "role-playing"
+      ]
+    }
+  },
+  "the-binding-of-isaac-rebirth": {
+    "key": "The Binding of Isaac: Rebirth",
+    "wikipedia": {
+      "title": "The Binding of Isaac: Rebirth",
+      "url": "https://en.wikipedia.org/wiki/The_Binding_of_Isaac:_Rebirth"
+    },
+    "qid": "Q16267631",
+    "summary": "The Binding of Isaac: Rebirth is a 2014 roguelike action-adventure game designed by Edmund McMillen and developed and published by Nicalis. Rebirth was released for Linux, Microsoft Windows, macOS, PlayStation 4 and PlayStation Vita in November 2014, for Xbox One, New Nintendo 3DS and Wii U in July 2015, for iOS in January 2017, for Nintendo Switch in March 2017, and for PlayStation 5 and Xbox Series X/S in November 2021, and Nintendo Switch 2 in November 2026.\nRebirth is a remake of The Binding of Isaac, which was developed by McMillen and Florian Himsl and released in 2011 as an Adobe Flash application.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e1/The_Binding_of_Issac_Rebirth_cover.jpg",
+      "width": 480,
+      "height": 720,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Binding_of_Issac_Rebirth_cover.jpg"
+    },
+    "checkedAt": "2026-11-09T07:04:59.950Z"
+  },
+  "the-legend-of-zelda-tears-of-the-kingdom": {
+    "key": "The Legend of Zelda: Tears of the Kingdom",
+    "wikipedia": {
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Tears_of_the_Kingdom"
+    },
+    "qid": "Q64577191",
+    "summary": "The Legend of Zelda: Tears of the Kingdom is a 2023 action-adventure game developed by Nintendo EPD for the Nintendo Switch. The player controls Link as he searches for Princess Zelda and fights to prevent Ganondorf from destroying Hyrule. Tears of the Kingdom retains the open-world gameplay and setting of its predecessor, Breath of the Wild (2017), but features new environments, including islands floating in the sky and a vast underground area called the Depths.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_Legend_of_Zelda_Tears_of_the_Kingdom_cover.jpg",
+      "width": 480,
+      "height": 666,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:The_Legend_of_Zelda_Tears_of_the_Kingdom_cover.jpg"
+    },
+    "checkedAt": "2026-11-09T07:05:00.268Z",
+    "facts": {
+      "year": 2022,
+      "developers": [
+        "Nintendo Entertainment Planning & Development",
+        "Monolith Soft Inc."
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "action-adventure game",
+        "post-apocalyptic"
+      ]
+    }
+  },
+  "the-ur-quan-masters": {
+    "key": "The Ur-Quan Masters",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:05:00.884Z"
+  },
+  "tomodachi-life-living-the-dream": {
+    "key": "Tomodachi Life: Living the Dream",
+    "wikipedia": {
+      "title": "Tomodachi Life: Living the Dream",
+      "url": "https://en.wikipedia.org/wiki/Tomodachi_Life:_Living_the_Dream"
+    },
+    "qid": "Q133567959",
+    "summary": "Tomodachi Life: Living the Dream, known in Japan as Tomodachi Collection: Exciting Life, is a 2026 social simulation game developed and published by Nintendo for the Nintendo Switch. It is the third entry in the Tomodachi Life series, succeeding the Nintendo 3DS title Tomodachi Life (2013). The game centers on the everyday lives of Miis, customizable avatars, residing on an island as they autonomously develop relationships and solve problems, all overseen by the player.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d7/Tomodachi_Life_-_Living_The_Dream.jpeg",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Tomodachi_Life_-_Living_The_Dream.jpeg"
+    },
+    "checkedAt": "2026-11-09T07:05:01.221Z",
+    "facts": {
+      "year": 2026,
+      "developers": [
+        "Nintendo Entertainment Planning & Development"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "life simulation game"
+      ]
+    }
+  },
+  "tuxemon": {
+    "key": "Tuxemon",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:05:01.614Z"
+  },
+  "xemu": {
+    "key": "xemu",
+    "wikipedia": null,
+    "checkedAt": "2026-11-09T07:05:02.753Z"
   }
 }
