@@ -13895,5 +13895,2228 @@
     "key": "xemu",
     "wikipedia": null,
     "checkedAt": "2026-11-09T07:05:02.753Z"
+  },
+  "adventures-of-demo": {
+    "key": "Adventures of Demo",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:07:59.991Z"
+  },
+  "animal-crossing-new-horizons": {
+    "key": "Animal Crossing: New Horizons",
+    "wikipedia": {
+      "title": "Animal Crossing: New Horizons",
+      "url": "https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons"
+    },
+    "qid": "Q64566657",
+    "summary": "Animal Crossing: New Horizons is a 2020 social simulation game developed and published by Nintendo for the Nintendo Switch. It is the fifth main installment in the Animal Crossing series, following Animal Crossing: New Leaf. In New Horizons, the player controls a character who moves to a deserted island after purchasing a getaway package from Tom Nook, accomplishes assigned tasks, and develops the island as they choose.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Animal_Crossing_New_Horizons.jpg",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Animal_Crossing_New_Horizons.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:00.301Z",
+    "facts": {
+      "year": 2020,
+      "developers": [
+        "Nintendo Entertainment Planning & Development"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "life simulation game"
+      ]
+    }
+  },
+  "aquaria": {
+    "key": "Aquaria",
+    "wikipedia": {
+      "title": "Aquaria (video game)",
+      "url": "https://en.wikipedia.org/wiki/Aquaria_(video_game)"
+    },
+    "qid": "Q623111",
+    "summary": "Aquaria is an action-adventure game designed by Alec Holowka and Derek Yu, who published the game in 2007 as an independent game company Bit Blot. The side-scrolling game follows Naija, an aquatic humanoid woman, as she explores the underwater world of Aquaria. Along her journey, she learns about the history of the world she inhabits as well as her own past.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/89/Aquaria_Logo.png",
+      "width": 480,
+      "height": 213,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Aquaria_Logo.png"
+    },
+    "checkedAt": "2026-11-16T08:08:00.565Z",
+    "facts": {
+      "year": 2007,
+      "developers": [],
+      "publishers": [
+        "Ambrosia Software"
+      ],
+      "genres": [
+        "Metroidvania"
+      ]
+    }
+  },
+  "army-of-two-the-devils-cartel": {
+    "key": "Army of Two: The Devil's Cartel",
+    "wikipedia": {
+      "title": "Army of Two: The Devil's Cartel",
+      "url": "https://en.wikipedia.org/wiki/Army_of_Two:_The_Devil%27s_Cartel"
+    },
+    "qid": "Q4794331",
+    "summary": "Army of Two: The Devil's Cartel is a third-person shooter video game developed by the Montreal branch of Visceral Games and released on March 26, 2013 by Electronic Arts for the Xbox 360 and PlayStation 3. It is the third and final game in the Army of Two series, following 2008's Army of Two and 2010's Army of Two: The 40th Day. The game takes place in Mexico and pits T.W.O. against a drug cartel known as La Guadaña (Spanish for \"the Scythe\").",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c4/ArmyOfTwo3.jpg",
+      "width": 480,
+      "height": 595,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:ArmyOfTwo3.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:00.846Z",
+    "facts": {
+      "year": 2013,
+      "developers": [
+        "Visceral Games",
+        "EA Montreal"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "third-person shooter"
+      ]
+    }
+  },
+  "astro-bot": {
+    "key": "Astro Bot",
+    "wikipedia": {
+      "title": "Astro Bot",
+      "url": "https://en.wikipedia.org/wiki/Astro_Bot"
+    },
+    "qid": "Q126199700",
+    "summary": "Astro Bot is a 2024 platform game developed by Team Asobi and published by Sony Interactive Entertainment for the PlayStation 5 in celebration of PlayStation's 30th anniversary. It is the fifth game in the Astro Bot series, following Astro's Playroom (2020), and Team Asobi's first game since its separation from Japan Studio. \nAs Astro, the player embarks on a quest to save lost robots, retrieve parts for the PlayStation 5 mothership, and defeat the alien Space Bully Nebulax.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a9/Astro_Bot_cover_art.jpg",
+      "width": 480,
+      "height": 642,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Astro_Bot_cover_art.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:01.129Z",
+    "facts": {
+      "year": 2024,
+      "developers": [],
+      "publishers": [
+        "Sony Interactive Entertainment"
+      ],
+      "genres": [
+        "platform game"
+      ]
+    }
+  },
+  "azaharplus": {
+    "key": "AzaharPlus",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:01.534Z"
+  },
+  "bsnes": {
+    "key": "bsnes",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:01.935Z"
+  },
+  "call-of-duty-black-ops-ii": {
+    "key": "Call of Duty: Black Ops II",
+    "wikipedia": {
+      "title": "Call of Duty: Black Ops II",
+      "url": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_II"
+    },
+    "qid": "Q380918",
+    "summary": "Call of Duty: Black Ops II is a 2012 first-person shooter game developed by Treyarch and published by Activision. It was released for Windows, PlayStation 3, and Xbox 360 on November 13, 2012, and for the Wii U on November 18 in North America and November 30 in PAL regions. Black Ops II is the ninth game in the Call of Duty franchise of video games, a sequel to the 2010 game Call of Duty: Black Ops and the first Call of Duty game for the Wii U. A corresponding game for the PlayStation Vita, Call of Duty: Black Ops: Declassified, was developed by nStigate Games and also released on November 13.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Black_Ops_II_box_artwork.png",
+      "width": 480,
+      "height": 664,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Call_of_Duty_Black_Ops_II_box_artwork.png"
+    },
+    "checkedAt": "2026-11-16T08:08:02.206Z",
+    "facts": {
+      "year": 2012,
+      "developers": [
+        "Treyarch"
+      ],
+      "publishers": [],
+      "genres": [
+        "first-person shooter",
+        "science fiction"
+      ]
+    }
+  },
+  "castlevania-lament-of-innocence": {
+    "key": "Castlevania: Lament of Innocence",
+    "wikipedia": {
+      "title": "Castlevania: Lament of Innocence",
+      "url": "https://en.wikipedia.org/wiki/Castlevania:_Lament_of_Innocence"
+    },
+    "qid": "Q568115",
+    "summary": "Castlevania: Lament of Innocence is a 2003 action-adventure game developed by Konami Computer Entertainment Tokyo and published by Konami for the PlayStation 2 console. Part of Konami's Castlevania video game series, it is the first installment of the series on the PlayStation 2 and the third to make use of a 3D style of gameplay. It was released in Japan and North America in late 2003 and Europe and Australia in early 2004.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/cc/Castlevania_-_Lament_of_Innocense_%28Gamecover%29.jpg",
+      "width": 480,
+      "height": 694,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Castlevania_-_Lament_of_Innocense_(Gamecover).jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:02.471Z",
+    "facts": {
+      "year": 2003,
+      "developers": [
+        "Konami"
+      ],
+      "publishers": [
+        "Konami"
+      ],
+      "genres": [
+        "action-adventure game",
+        "hack and slash"
+      ]
+    }
+  },
+  "civilization-revolution": {
+    "key": "Civilization Revolution",
+    "wikipedia": {
+      "title": "Civilization Revolution",
+      "url": "https://en.wikipedia.org/wiki/Civilization_Revolution"
+    },
+    "qid": "Q1200940",
+    "summary": "Sid Meier's Civilization Revolution is a 4X, turn-based strategy game developed in 2008 by Firaxis Games with Sid Meier as designer. It is a spin-off of the Civilization series. The video game was released for the PlayStation 3, Xbox 360, Nintendo DS, Windows Phone, and iOS. A Wii version was originally expected but was cancelled.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/32/Civilization_Revolution_Game_Cover.png",
+      "width": 480,
+      "height": 600,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Civilization_Revolution_Game_Cover.png"
+    },
+    "checkedAt": "2026-11-16T08:08:02.773Z",
+    "facts": {
+      "year": 2008,
+      "developers": [
+        "Firaxis Games"
+      ],
+      "publishers": [
+        "2K"
+      ],
+      "genres": [
+        "4X",
+        "turn-based strategy"
+      ]
+    }
+  },
+  "collapse": {
+    "key": "Collapse",
+    "wikipedia": {
+      "title": "Collapse (2008 video game)",
+      "url": "https://en.wikipedia.org/wiki/Collapse_(2008_video_game)"
+    },
+    "qid": "Q4036403",
+    "summary": "Collapse (Ukrainian: Kолапс, also known as Collapse: Devastated World) is an action game released in 2008 for Windows. It was developed by Creoteam, a company based in Ukraine. The game is notable for combining quick time events and sword battles similar to God of War series, third-person shooting, and a setting similar to S.T.A.L.K.E.R.: Shadow of Chernobyl.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/cb/Collapse_cover.jpg",
+      "width": 480,
+      "height": 677,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Collapse_cover.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:03.384Z",
+    "facts": {
+      "year": 2008,
+      "developers": [
+        "Creoteam"
+      ],
+      "publishers": [
+        "Buka Entertainment"
+      ],
+      "genres": [
+        "action-adventure game",
+        "third-person shooter"
+      ]
+    }
+  },
+  "colonization": {
+    "key": "Colonization",
+    "wikipedia": {
+      "title": "Sid Meier's Colonization",
+      "url": "https://en.wikipedia.org/wiki/Sid_Meier%27s_Colonization"
+    },
+    "qid": "Q864943",
+    "summary": "Sid Meier's Colonization is a turn-based strategy video game by Brian Reynolds and Sid Meier. It was developed at MicroProse's Chapel Hill studio for MS-DOS and published in 1994. The game is themed around European colonization of the New World from 1492–1850.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/ed/Colonization_cover.jpg",
+      "width": 480,
+      "height": 569,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Colonization_cover.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:03.673Z",
+    "facts": {
+      "year": 1994,
+      "developers": [
+        "MicroProse"
+      ],
+      "publishers": [
+        "MicroProse"
+      ],
+      "genres": [
+        "turn-based strategy"
+      ]
+    }
+  },
+  "combined-arms": {
+    "key": "Combined Arms",
+    "wikipedia": {
+      "title": "Infantry (video game)",
+      "url": "https://en.wikipedia.org/wiki/Infantry_(video_game)"
+    },
+    "qid": "Q6029083",
+    "summary": "Infantry, also known as Infantry Online, is a multiplayer combat video game. Originally released in 1999, the game was taken offline by Sony Online Entertainment and the servers shut down in March 2012.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/79/Infantry_Online.png",
+      "width": 480,
+      "height": 228,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Infantry_Online.png"
+    },
+    "checkedAt": "2026-11-16T08:08:03.945Z",
+    "facts": {
+      "year": 1999,
+      "developers": [],
+      "publishers": [
+        "Daybreak Game Company"
+      ],
+      "genres": [
+        "massively multiplayer online game",
+        "action game",
+        "shooter game",
+        "role-playing"
+      ]
+    }
+  },
+  "command-and-conquer-yuris-revenge": {
+    "key": "Command & Conquer: Yuri's Revenge",
+    "wikipedia": {
+      "title": "Command & Conquer: Yuri's Revenge",
+      "url": "https://en.wikipedia.org/wiki/Command_%26_Conquer:_Yuri%27s_Revenge"
+    },
+    "qid": "Q2014743",
+    "summary": "Command & Conquer: Yuri's Revenge is an expansion pack to Command & Conquer: Red Alert 2 developed by Westwood Studios. The game was released in North America on October 9, 2001. The game is centered on a shadowy ex-Soviet figure named Yuri, who has established a secret army of his own and poses a threat to the free will of the world.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Cncyr-cover.jpg",
+      "width": 480,
+      "height": 683,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Cncyr-cover.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:04.208Z",
+    "facts": {
+      "year": 2001,
+      "developers": [
+        "Westwood Studios"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "real-time strategy"
+      ]
+    }
+  },
+  "conker-live-and-reloaded": {
+    "key": "Conker: Live & Reloaded",
+    "wikipedia": {
+      "title": "Conker: Live & Reloaded",
+      "url": "https://en.wikipedia.org/wiki/Conker:_Live_%26_Reloaded"
+    },
+    "qid": "Q2630705",
+    "summary": "Conker: Live & Reloaded is a 2005 platform game developed by Rare and published by Microsoft Game Studios for the Xbox. It is a remake of the 2001 game Conker's Bad Fur Day for the Nintendo 64, with a new multiplayer mode using Xbox Live that is different from the original. Development started the moment Rare was bought by Microsoft in 2002.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3f/Conker_-_Live_%26_Reloaded_Coverart.png",
+      "width": 480,
+      "height": 666,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Conker_-_Live_%26_Reloaded_Coverart.png"
+    },
+    "checkedAt": "2026-11-16T08:08:04.481Z",
+    "facts": {
+      "year": 2005,
+      "developers": [
+        "Rare Ltd."
+      ],
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "genres": [
+        "third-person shooter"
+      ]
+    }
+  },
+  "counter-strike-football": {
+    "key": "Counter-Strike: Football",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:04.950Z"
+  },
+  "crusader-no-remorse": {
+    "key": "Crusader: No Remorse",
+    "wikipedia": {
+      "title": "Crusader: No Remorse",
+      "url": "https://en.wikipedia.org/wiki/Crusader:_No_Remorse"
+    },
+    "qid": "Q950846",
+    "summary": "Crusader: No Remorse is an action game developed by Origin Systems and published by Electronic Arts. It was first released in 1995 for MS-DOS, with the Sony PlayStation and Sega Saturn ports following in 1997. Set in a dystopian future 22nd century, the game centers on The Captain, a special ops officer and supersoldier, who defects from the tyrannical world government, the World Economic Consortium (WEC), and joins the Resistance rebels.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/Crusader_-_No_Remorse_cover.jpg",
+      "width": 480,
+      "height": 568,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Crusader_-_No_Remorse_cover.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:05.241Z",
+    "facts": {
+      "year": 1995,
+      "developers": [
+        "Origin Systems"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "action game",
+        "cyberpunk",
+        "science fiction"
+      ]
+    }
+  },
+  "crysis": {
+    "key": "Crysis",
+    "wikipedia": {
+      "title": "Crysis (video game)",
+      "url": "https://en.wikipedia.org/wiki/Crysis_(video_game)"
+    },
+    "qid": "Q237484",
+    "summary": "Crysis is a 2007 first-person shooter game developed by Crytek and published by Electronic Arts for Microsoft Windows. It is the first game in the Crysis series. A standalone expansion, Crysis Warhead, was released in 2008, following similar events as Crysis but from a different narrative perspective.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Crysis_Cover.jpg",
+      "width": 480,
+      "height": 675,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Crysis_Cover.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:05.511Z",
+    "facts": {
+      "year": 2007,
+      "developers": [],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "first-person shooter",
+        "science fiction"
+      ]
+    }
+  },
+  "cubyz": {
+    "key": "Cubyz",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:05.915Z"
+  },
+  "dead-or-alive": {
+    "key": "Dead or Alive ++",
+    "wikipedia": {
+      "title": "Dead or Alive (video game)",
+      "url": "https://en.wikipedia.org/wiki/Dead_or_Alive_(video_game)"
+    },
+    "qid": "Q2548236",
+    "summary": "Dead or Alive is a 1996 fighting game developed and published by Tecmo for arcades. It is the first entry in the Dead or Alive series. Built on the Sega Model 2 hardware, it was released first in arcades in 1996, followed by home ports for the Sega Saturn in Japan during 1997, and for the PlayStation in all regions during 1998.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/17/DOA_flyer.jpg",
+      "width": 480,
+      "height": 679,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:DOA_flyer.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:06.491Z",
+    "facts": {
+      "year": 1996,
+      "developers": [
+        "Team Ninja"
+      ],
+      "publishers": [
+        "Tecmo"
+      ],
+      "genres": [
+        "3D fighting game"
+      ]
+    }
+  },
+  "dead-space-2": {
+    "key": "Dead Space 2",
+    "wikipedia": {
+      "title": "Dead Space 2",
+      "url": "https://en.wikipedia.org/wiki/Dead_Space_2"
+    },
+    "qid": "Q842431",
+    "summary": "Dead Space 2 is a 2011 survival horror game developed by Visceral Games and published by Electronic Arts. It was released for PlayStation 3, Windows, and Xbox 360 in January. The second mainline entry in the Dead Space series, set on the Titan-based Sprawl space station, follows series protagonist Isaac Clarke as he fights against both an outbreak of the monstrous Necromorphs and debilitating mental illness induced by the alien Markers.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Dead_Space_2_Box_Art.jpg",
+      "width": 480,
+      "height": 675,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Dead_Space_2_Box_Art.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:06.770Z",
+    "facts": {
+      "year": 2011,
+      "developers": [
+        "Visceral Games"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "third-person shooter",
+        "psychological horror fiction",
+        "science fiction"
+      ]
+    }
+  },
+  "devil-may-cry-3-special-edition": {
+    "key": "Devil May Cry 3: Special Edition",
+    "wikipedia": {
+      "title": "Devil May Cry 3: Dante's Awakening",
+      "url": "https://en.wikipedia.org/wiki/Devil_May_Cry_3:_Dante%27s_Awakening"
+    },
+    "qid": "Q839794",
+    "summary": "Devil May Cry 3: Dante's Awakening is a 2005 action-adventure game developed and published by Capcom for the PlayStation 2. The game is a prequel to the original Devil May Cry, featuring a younger Dante. Set a decade before the events of the first Devil May Cry in an enchanted tower called the Temen-ni-gru, the story follows Dante as he attempts to stop his twin brother, Vergil, from opening a portal to the Demon World.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/76/Devil_May_Cry_3_boxshot.jpg",
+      "width": 480,
+      "height": 613,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Devil_May_Cry_3_boxshot.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:07.030Z",
+    "facts": {
+      "year": 2005,
+      "developers": [
+        "Capcom"
+      ],
+      "publishers": [
+        "Capcom"
+      ],
+      "genres": [
+        "action-adventure game",
+        "character-action",
+        "dark fantasy"
+      ]
+    }
+  },
+  "donkey-kong-bananza": {
+    "key": "Donkey Kong Bananza",
+    "wikipedia": {
+      "title": "Donkey Kong Bananza",
+      "url": "https://en.wikipedia.org/wiki/Donkey_Kong_Bananza"
+    },
+    "qid": "Q133804475",
+    "summary": "Donkey Kong Bananza is a 2025 platform game developed by Nintendo EPD for the Nintendo Switch 2.  The player controls the gorilla Donkey Kong, who ventures to the planetary core with the teenage Pauline. Similar to EPD's Super Mario Odyssey (2017), the player explores sandbox-like levels while completing objectives, battling enemies, and collecting objects.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Donkey_Kong_Bananza_updated_box_art.png",
+      "width": 480,
+      "height": 681,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Donkey_Kong_Bananza_updated_box_art.png"
+    },
+    "checkedAt": "2026-11-16T08:08:07.290Z",
+    "facts": {
+      "year": 2025,
+      "developers": [
+        "Nintendo Entertainment Planning & Development"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "3D platform game"
+      ]
+    }
+  },
+  "donkey-kong-country": {
+    "key": "Donkey Kong Country",
+    "wikipedia": {
+      "title": "Donkey Kong Country",
+      "url": "https://en.wikipedia.org/wiki/Donkey_Kong_Country"
+    },
+    "qid": "Q518987",
+    "summary": "Donkey Kong Country, known in Japan as Super Donkey Kong, is a 1994 platform game developed by Rare and published by Nintendo for the Super Nintendo Entertainment System (SNES). It follows the gorilla Donkey Kong and his nephew Diddy Kong as they set out to recover their stolen banana hoard from the crocodile King K. Rool and his army, the Kremlings. The player traverses 40 side-scrolling levels as they jump between platforms and avoid obstacles.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1a/Donkey_Kong_Country_SNES_cover.png",
+      "width": 480,
+      "height": 335,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Donkey_Kong_Country_SNES_cover.png"
+    },
+    "checkedAt": "2026-11-16T08:08:07.545Z",
+    "facts": {
+      "year": 1994,
+      "developers": [
+        "Rare Ltd."
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "2D platform game"
+      ]
+    }
+  },
+  "dr-robotniks-ring-racers": {
+    "key": "Dr. Robotnik's Ring Racers",
+    "wikipedia": {
+      "title": "Sonic Robo Blast 2",
+      "url": "https://en.wikipedia.org/wiki/Sonic_Robo_Blast_2"
+    },
+    "qid": "Q6132261",
+    "summary": "Sonic Robo Blast 2 (often abbreviated SRB2) is a platform game made within a modified version of id Software's Doom engine. It is a free Sonic the Hedgehog fan game inspired by the original Sega Genesis games that \"attempts to recreate their design in 3D\", and was the first fan-made 3D Sonic game created. The game has received consistent support throughout its development of over 25 years, which has been attributed to a large modding community.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6d/Srb2_22_title.png",
+      "width": 480,
+      "height": 300,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Srb2_22_title.png"
+    },
+    "checkedAt": "2026-11-16T08:08:07.847Z"
+  },
+  "dragon-ball-z-budokai-tenkaichi-4": {
+    "key": "Dragon Ball Z: Budokai Tenkaichi 4",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:08.302Z"
+  },
+  "drakengard-3": {
+    "key": "Drakengard 3",
+    "wikipedia": {
+      "title": "Drakengard 3",
+      "url": "https://en.wikipedia.org/wiki/Drakengard_3"
+    },
+    "qid": "Q15073096",
+    "summary": "Drakengard 3, known in Japan as Drag-On Dragoon 3, is a 2013 action role-playing video game developed by Access Games and published by Square Enix exclusively for PlayStation 3. It is the third main game in the Drakengard series and a prequel to the original game. The game, like the rest of the series, features a mixture of ground-based hack-and-slash combat and aerial battles.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8a/Drakengard_3_boxart.png",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Drakengard_3_boxart.png"
+    },
+    "checkedAt": "2026-11-16T08:08:08.583Z",
+    "facts": {
+      "year": 2013,
+      "developers": [
+        "Access Games"
+      ],
+      "publishers": [
+        "Square Enix"
+      ],
+      "genres": [
+        "action role-playing game",
+        "hack and slash",
+        "dark fantasy"
+      ]
+    }
+  },
+  "emptyepsilon": {
+    "key": "EmptyEpsilon",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:08.972Z"
+  },
+  "f-zero": {
+    "key": "F-Zero",
+    "wikipedia": {
+      "title": "F-Zero (video game)",
+      "url": "https://en.wikipedia.org/wiki/F-Zero_(video_game)"
+    },
+    "qid": "Q1198491",
+    "summary": "F-Zero is a 1990 racing game developed and published by Nintendo for the Super Nintendo Entertainment System (SNES). It was released in Japan on November 21, 1990, in North America in August 1991, and in Europe in 1992. F-Zero is the first game in the F-Zero series and was a launch game for the SNES. F-Zero has been rereleased for the Virtual Console and Nintendo Classics services on various Nintendo platforms, and as part of the Super NES Classic Edition in 2017.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9b/SNES_F-Zero_boxart.jpg",
+      "width": 480,
+      "height": 349,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:SNES_F-Zero_boxart.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:09.239Z",
+    "facts": {
+      "year": 1990,
+      "developers": [
+        "Nintendo Entertainment Analysis & Development"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "futuristic racing game"
+      ]
+    }
+  },
+  "f1-ce-ps3-recomp": {
+    "key": "F1 CE PS3 Recomp",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:09.595Z"
+  },
+  "feudal-tactics-medieval-strategy-game": {
+    "key": "Feudal Tactics - Medieval Strategy Game",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:10.096Z"
+  },
+  "fire-emblem-the-sacred-stones": {
+    "key": "Fire Emblem: The Sacred Stones",
+    "wikipedia": {
+      "title": "Fire Emblem: The Sacred Stones",
+      "url": "https://en.wikipedia.org/wiki/Fire_Emblem:_The_Sacred_Stones"
+    },
+    "qid": "Q150169",
+    "summary": "Fire Emblem: The Sacred Stones is a tactical role-playing game developed by Intelligent Systems, and published by Nintendo for the Game Boy Advance handheld video game console in 2004 for Japan and 2005 in the West. It is the eighth entry in the Fire Emblem series, the second to be released outside Japan, and the third and final title to be developed for the Game Boy Advance after The Binding Blade and its prequel The Blazing Blade.\nSet in a separate continuity to earlier Fire Emblem titles, The Sacred Stones takes place on the fictional continent of Magvel, which is divided into six nations, built around five magical stones said to be linked to the imprisonment of an ancient demon.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1e/Fire_Emblem_The_Sacred_Stones.JPG",
+      "width": 480,
+      "height": 482,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Fire_Emblem_The_Sacred_Stones.JPG"
+    },
+    "checkedAt": "2026-11-16T08:08:10.346Z",
+    "facts": {
+      "year": 2004,
+      "developers": [
+        "Intelligent Systems"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "tactical role-playing game"
+      ]
+    }
+  },
+  "fish-folk": {
+    "key": "Fish Folk",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:10.789Z"
+  },
+  "freegish": {
+    "key": "Freegish",
+    "wikipedia": {
+      "title": "Gish (video game)",
+      "url": "https://en.wikipedia.org/wiki/Gish_(video_game)"
+    },
+    "qid": "Q2666964",
+    "summary": "Gish is a 2004 platform game developed and published by Chronic Logic. After eight months in development, it was released in May 2004 to a positive reception. A sequel, Gish 2, was canceled.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/55/Gish_%28video_game%29.jpg",
+      "width": 480,
+      "height": 224,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Gish_(video_game).jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:11.065Z"
+  },
+  "freej2me-plus": {
+    "key": "FreeJ2ME-Plus",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:11.486Z"
+  },
+  "gb-enhanced": {
+    "key": "GB Enhanced+",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:11.882Z"
+  },
+  "god-of-war-ascension": {
+    "key": "God of War: Ascension",
+    "wikipedia": {
+      "title": "God of War: Ascension",
+      "url": "https://en.wikipedia.org/wiki/God_of_War:_Ascension"
+    },
+    "qid": "Q2298167",
+    "summary": "God of War: Ascension is a 2013 action-adventure game developed by Santa Monica Studio and published by Sony Computer Entertainment for the PlayStation 3. Released in March 2013, it is the seventh installment in the God of War series and the second chronologically. Loosely based on Greek mythology, it is set in ancient Greece with vengeance as its central motif.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/God_of_War_Ascension.jpg",
+      "width": 480,
+      "height": 555,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:God_of_War_Ascension.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:12.159Z",
+    "facts": {
+      "year": 2013,
+      "developers": [
+        "Santa Monica Studio"
+      ],
+      "publishers": [
+        "Sony Interactive Entertainment"
+      ],
+      "genres": [
+        "hack and slash"
+      ]
+    }
+  },
+  "gran-turismo-3-a-spec": {
+    "key": "Gran Turismo 3 A-Spec",
+    "wikipedia": {
+      "title": "Gran Turismo 3: A-Spec",
+      "url": "https://en.wikipedia.org/wiki/Gran_Turismo_3:_A-Spec"
+    },
+    "qid": "Q975773",
+    "summary": "Gran Turismo 3: A-Spec is a 2001 sim racing video game developed by Polyphony Digital and published by Sony Computer Entertainment for the PlayStation 2. It is the third installment in the Gran Turismo series. During its demonstration at E3 2000 and E3 2001, the game was known under the working title Gran Turismo 2000.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/83/Gran_Turismo_3_%28Original%29.jpg",
+      "width": 480,
+      "height": 666,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Gran_Turismo_3_(Original).jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:12.411Z",
+    "facts": {
+      "year": 2001,
+      "developers": [
+        "Polyphony Digital"
+      ],
+      "publishers": [
+        "Sony Interactive Entertainment"
+      ],
+      "genres": [
+        "racing"
+      ]
+    }
+  },
+  "grand-theft-auto-v": {
+    "key": "Grand Theft Auto V",
+    "wikipedia": {
+      "title": "Grand Theft Auto V",
+      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V"
+    },
+    "qid": "Q17452",
+    "summary": "Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the seventh main entry in the Grand Theft Auto series, following 2008's Grand Theft Auto IV, and the fifteenth entry overall. Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three protagonists—retired bank robber Michael De Santa (Ned Luke), street gangster Franklin Clinton (Shawn Fonteno), and drug dealer and gunrunner Trevor Philips (Steven Ogg)—and their attempts to commit heists while under pressure from a corrupt government agency and powerful criminals.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+      "width": 480,
+      "height": 593,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Grand_Theft_Auto_V.png"
+    },
+    "checkedAt": "2026-11-16T08:08:12.657Z",
+    "facts": {
+      "year": 2013,
+      "developers": [
+        "Rockstar Toronto"
+      ],
+      "publishers": [
+        "Take-Two Interactive",
+        "Softclub"
+      ],
+      "genres": [
+        "action-adventure game",
+        "first-person shooter",
+        "third-person shooter",
+        "simulation"
+      ]
+    }
+  },
+  "guitar-hero-ii": {
+    "key": "Guitar Hero II",
+    "wikipedia": {
+      "title": "Guitar Hero II",
+      "url": "https://en.wikipedia.org/wiki/Guitar_Hero_II"
+    },
+    "qid": "Q1798154",
+    "summary": "Guitar Hero II is a 2006 rhythm game developed by Harmonix and published by RedOctane for the PlayStation 2 and Activision for the Xbox 360. It is the sequel to Guitar Hero (2005) and the second installment in the Guitar Hero series. The game was first released for the PlayStation 2 in November 2006, and then for the Xbox 360 in April 2007, with additional content not originally in the PlayStation 2 version.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/83/Guitar_Hero_II.jpg",
+      "width": 480,
+      "height": 679,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Guitar_Hero_II.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:12.921Z",
+    "facts": {
+      "year": 2006,
+      "developers": [
+        "Harmonix Music Systems"
+      ],
+      "publishers": [],
+      "genres": [
+        "music",
+        "rhythm game"
+      ]
+    }
+  },
+  "guitar-hero-iii-legends-of-rock": {
+    "key": "Guitar Hero III: Legends of Rock",
+    "wikipedia": {
+      "title": "Guitar Hero III: Legends of Rock",
+      "url": "https://en.wikipedia.org/wiki/Guitar_Hero_III:_Legends_of_Rock"
+    },
+    "qid": "Q1047938",
+    "summary": "Guitar Hero III: Legends of Rock is a 2007 rhythm game developed by Neversoft and published by Activision. It is the third main installment, the fourth overall installment in the Guitar Hero series and the first game in the series to be developed by Neversoft after Activision's acquisition of RedOctane and MTV Games' purchase of Harmonix, the previous development studio for the series. The game was released worldwide for the PlayStation 2, PlayStation 3, Xbox 360, and Wii in October 2007.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/93/Guitar-hero-iii-cover-image.jpg",
+      "width": 480,
+      "height": 715,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Guitar-hero-iii-cover-image.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:13.185Z",
+    "facts": {
+      "year": 2007,
+      "developers": [
+        "Neversoft"
+      ],
+      "publishers": [],
+      "genres": [
+        "music"
+      ]
+    }
+  },
+  "halo-3": {
+    "key": "Halo 3",
+    "wikipedia": {
+      "title": "Halo 3",
+      "url": "https://en.wikipedia.org/wiki/Halo_3"
+    },
+    "qid": "Q137802",
+    "summary": "Halo 3 is a 2007 first-person shooter video game developed by Bungie for the Xbox 360 console. The third installment in the Halo franchise following Halo: Combat Evolved (2001) and Halo 2 (2004), the game's story centers on the interstellar war between 26th-century humanity, a collection of alien races known as the Covenant, and the alien parasite known as the Flood. The player assumes the role of the Master Chief, a cybernetically enhanced supersoldier, as he battles the Covenant and the Flood.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Halo_3_final_boxshot.JPG",
+      "width": 480,
+      "height": 609,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Halo_3_final_boxshot.JPG"
+    },
+    "checkedAt": "2026-11-16T08:08:13.463Z",
+    "facts": {
+      "year": 2007,
+      "developers": [
+        "Bungie"
+      ],
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "genres": [
+        "first-person shooter",
+        "science fiction"
+      ]
+    }
+  },
+  "hedge-mod-manager": {
+    "key": "Hedge Mod Manager",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:13.866Z"
+  },
+  "homestuck": {
+    "key": "Homestuck",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:14.310Z"
+  },
+  "hydro-thunder-hurricane": {
+    "key": "Hydro Thunder Hurricane",
+    "wikipedia": {
+      "title": "Hydro Thunder Hurricane",
+      "url": "https://en.wikipedia.org/wiki/Hydro_Thunder_Hurricane"
+    },
+    "qid": "Q12252310",
+    "summary": "Hydro Thunder Hurricane is a boat racing video game developed by Vector Unit and published by Microsoft Game Studios for the Xbox 360 via Xbox Live Arcade. The game was released on July 28, 2010 as part of Microsoft's Xbox Live Summer of Arcade promotion. It is the sequel to Hydro Thunder, originally an arcade game, and part of the Thunder series, developed by Midway Games and under license of Warner Bros.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1e/Hydro-thunder-hurricane-cover-01.png",
+      "width": 480,
+      "height": 658,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Hydro-thunder-hurricane-cover-01.png"
+    },
+    "checkedAt": "2026-11-16T08:08:14.599Z",
+    "facts": {
+      "year": 2010,
+      "developers": [
+        "Vector Unit"
+      ],
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "genres": [
+        "racing"
+      ]
+    }
+  },
+  "jedi-knight-ii-jedi-outcast": {
+    "key": "Jedi Knight II: Jedi Outcast",
+    "wikipedia": {
+      "title": "Star Wars Jedi Knight II: Jedi Outcast",
+      "url": "https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight_II:_Jedi_Outcast"
+    },
+    "qid": "Q55298",
+    "summary": "Star Wars Jedi Knight II: Jedi Outcast is a 2002 first and third-person shooter video game developed by Raven Software for Windows and Mac OS. Westlake Interactive ported the game to Mac OS X, while the Xbox and GameCube versions were ported by Vicarious Visions; most versions were published by Activision and LucasArts, with only the Mac OS version published by Aspyr. The game is a sequel to 1997's Star Wars Jedi Knight: Dark Forces II, and the third main installment in the Star Wars: Jedi Knight series. The single-player campaign, set in the fictional Star Wars expanded universe two years after the Mysteries of the Sith expansion for Dark Forces II, follows returning protagonist Kyle Katarn, a mercenary working for the New Republic and former Jedi who cut his connection to the Force.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/40/Jedi_Outcast_pc_cover.jpg",
+      "width": 480,
+      "height": 681,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Jedi_Outcast_pc_cover.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:14.903Z"
+  },
+  "kemulator": {
+    "key": "KEmulator",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:15.246Z"
+  },
+  "kingdom-hearts-chain-of-memories": {
+    "key": "Kingdom Hearts: Chain of Memories",
+    "wikipedia": {
+      "title": "Kingdom Hearts: Chain of Memories",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_Hearts:_Chain_of_Memories"
+    },
+    "qid": "Q843205",
+    "summary": "Kingdom Hearts: Chain of Memories is a 2004 action role-playing game developed by Square Enix and Jupiter and published by Square Enix in collaboration with Disney Interactive for the Game Boy Advance (GBA). The second game in the Kingdom Hearts series, it is a direct sequel to Kingdom Hearts whose ending is set about a year before the events of Kingdom Hearts II. Chain of Memories follows Sora and his friends as they explore Castle Oblivion while battling Organization XIII, a new group of antagonists. The game uses a new card-based battle system rather than its predecessor's real-time combat system, and it was one of the first GBA games to incorporate full-motion video (FMV).",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1d/KingdomHeartsCoMCover_.jpg",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:KingdomHeartsCoMCover_.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:15.528Z",
+    "facts": {
+      "year": 2004,
+      "developers": [
+        "Jupiter"
+      ],
+      "publishers": [
+        "Square Enix"
+      ],
+      "genres": [
+        "action role-playing game",
+        "crossover fiction",
+        "card battle"
+      ]
+    }
+  },
+  "lcs-recomp": {
+    "key": "LCS Recomp",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:15.831Z"
+  },
+  "lego-marvel-super-heroes": {
+    "key": "LEGO Marvel Super Heroes",
+    "wikipedia": {
+      "title": "Lego Marvel Super Heroes",
+      "url": "https://en.wikipedia.org/wiki/Lego_Marvel_Super_Heroes"
+    },
+    "qid": "Q3662198",
+    "summary": "Lego Marvel Super Heroes is a 2013 Lego-themed action-adventure video game developed by Traveller's Tales and published by Warner Bros. Interactive Entertainment for the PlayStation 3, Xbox 360, Wii U, PlayStation 4, Xbox One, Nintendo Switch, and Microsoft Windows, and by Feral Interactive for OS X. The game features gameplay similar to other Lego titles, such as Lego Star Wars: The Complete Saga and Lego Batman 2: DC Super Heroes, alternating between various action-adventure sequences and puzzle-solving scenarios. The handheld version of the game by TT Fusion was released under the title Lego Marvel Super Heroes: Universe in Peril for iOS, Android, Nintendo DS, Nintendo 3DS, and PlayStation Vita.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Lego-Marvel-cover.jpg",
+      "width": 480,
+      "height": 614,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Lego-Marvel-cover.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:16.137Z",
+    "facts": {
+      "year": 2013,
+      "developers": [
+        "TT Games"
+      ],
+      "publishers": [
+        "Warner Bros. Games"
+      ],
+      "genres": [
+        "action-adventure game",
+        "crossover fiction"
+      ]
+    }
+  },
+  "lego-universe": {
+    "key": "LEGO Universe",
+    "wikipedia": {
+      "title": "Lego Universe",
+      "url": "https://en.wikipedia.org/wiki/Lego_Universe"
+    },
+    "qid": "Q1882121",
+    "summary": "Lego Universe was a massively multiplayer online game that was available from October 2010 to January 2012. The game was developed by NetDevil and released on October 26, 2010, with an early opening (October 8, 2010) for Lego \"Founders\", users who had pre-ordered the game. It was globally distributed by Warner Bros.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f9/LegoUniverse.png",
+      "width": 480,
+      "height": 671,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:LegoUniverse.png"
+    },
+    "checkedAt": "2026-11-16T08:08:16.411Z",
+    "facts": {
+      "year": 2010,
+      "developers": [
+        "The Lego Group",
+        "NetDevil"
+      ],
+      "publishers": [
+        "Warner Bros. Games"
+      ],
+      "genres": [
+        "massively multiplayer online game"
+      ]
+    }
+  },
+  "marble-blast-ultra": {
+    "key": "Marble Blast Ultra",
+    "wikipedia": {
+      "title": "Marble Blast Ultra",
+      "url": "https://en.wikipedia.org/wiki/Marble_Blast_Ultra"
+    },
+    "qid": "Q3845328",
+    "summary": "Marble Blast Ultra is a platform game developed by GarageGames. It was released on January 25, 2006 for the Xbox 360 via Xbox Live Arcade. It is the sequel to Marble Blast Gold.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Marbleblastcover.jpg",
+      "width": 480,
+      "height": 658,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Marbleblastcover.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:16.663Z",
+    "facts": {
+      "year": 2006,
+      "developers": [
+        "GarageGames"
+      ],
+      "publishers": [
+        "GarageGames"
+      ],
+      "genres": [
+        "puzzle"
+      ]
+    }
+  },
+  "mario-kart-world": {
+    "key": "Mario Kart World",
+    "wikipedia": {
+      "title": "Mario Kart World",
+      "url": "https://en.wikipedia.org/wiki/Mario_Kart_World"
+    },
+    "qid": "Q131767872",
+    "summary": "Mario Kart World is a 2025 kart racing game developed by Nintendo EPD and published by Nintendo for the Nintendo Switch 2. As in previous Mario Kart games, players control Mario series characters as they race against opponents. World introduces an open-world design and mode, off-roading techniques, an elimination rally mode, and unlockable costumes for the playable characters.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/65/Mario_Kart_World_Cover_Artwork.png",
+      "width": 480,
+      "height": 672,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Mario_Kart_World_Cover_Artwork.png"
+    },
+    "checkedAt": "2026-11-16T08:08:16.908Z",
+    "facts": {
+      "year": 2025,
+      "developers": [
+        "Nintendo Entertainment Planning & Development"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "kart racing game",
+        "racing"
+      ]
+    }
+  },
+  "marvel-heroes": {
+    "key": "Marvel Heroes",
+    "wikipedia": {
+      "title": "Marvel Heroes (video game)",
+      "url": "https://en.wikipedia.org/wiki/Marvel_Heroes_(video_game)"
+    },
+    "qid": "Q9283458",
+    "summary": "Marvel Heroes, also known as Marvel Heroes 2015, Marvel Heroes 2016 and Marvel Heroes Omega, was a free-to-play massively multiplayer online action role-playing video game developed by Gazillion Entertainment and Secret Identity Studios. Characters such as Iron Man, Captain America, Deadpool, and Wolverine were playable characters that could be unlocked in the game. The story was written by Brian Michael Bendis.",
+    "cover": null,
+    "checkedAt": "2026-11-16T08:08:17.189Z",
+    "facts": {
+      "year": 2013,
+      "developers": [
+        "Secret Identity Studios"
+      ],
+      "publishers": [],
+      "genres": [
+        "massively multiplayer online game",
+        "video game with LGBT character"
+      ]
+    }
+  },
+  "mednaffe": {
+    "key": "Mednaffe",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:17.549Z"
+  },
+  "mega-man-battle-network-6": {
+    "key": "Mega Man Battle Network 6",
+    "wikipedia": {
+      "title": "Mega Man Battle Network 6",
+      "url": "https://en.wikipedia.org/wiki/Mega_Man_Battle_Network_6"
+    },
+    "qid": "Q3180498",
+    "summary": "Mega Man Battle Network 6: Cybeast Gregar and Mega Man Battle Network 6: Cybeast Falzar are 2005 tactical role-playing games developed and published by Capcom for the Game Boy Advance (GBA) handheld game console. They are the sixth and final game in the Mega Man Battle Network series, and involves Lan Hikari's family and MegaMan.EXE moving to Cyber City, only to need to once again stop the returning WWW (World Three) and their plans to re-awaken the Cybeasts.\nBattle Network 6 marks the end of the Battle Network series, as shown in the ending, although this wasn't initially the case; the developers stated the decision to end the series was only made part-way through development, and after several of the graphics were re-done.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0b/MegaManBattleNetwork6_1.jpg",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:MegaManBattleNetwork6_1.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:17.798Z",
+    "facts": {
+      "year": 2005,
+      "developers": [
+        "Capcom"
+      ],
+      "publishers": [
+        "Capcom"
+      ],
+      "genres": [
+        "real-time tactics",
+        "tactical role-playing game"
+      ]
+    }
+  },
+  "mesen": {
+    "key": "Mesen",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:18.248Z"
+  },
+  "metal-gear-rising-revengeance": {
+    "key": "Metal Gear Rising: Revengeance",
+    "wikipedia": {
+      "title": "Metal Gear Rising: Revengeance",
+      "url": "https://en.wikipedia.org/wiki/Metal_Gear_Rising:_Revengeance"
+    },
+    "qid": "Q930345",
+    "summary": "Metal Gear Rising: Revengeance is a 2013 action-adventure game developed by PlatinumGames and published by Konami. It was released for the PlayStation 3 and Xbox 360 in February 2013, Windows and OS X in January and September 2014, and Nvidia Shield TV in January 2016. It is a spin-off in the Metal Gear series, set four years after the events of Metal Gear Solid 4: Guns of the Patriots.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Metal_Gear_Rising_Revengeance_box_artwork.jpg",
+      "width": 480,
+      "height": 589,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Metal_Gear_Rising_Revengeance_box_artwork.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:18.500Z",
+    "facts": {
+      "year": 2013,
+      "developers": [],
+      "publishers": [
+        "Konami"
+      ],
+      "genres": [
+        "action game",
+        "cyberpunk",
+        "character-action"
+      ]
+    }
+  },
+  "metal-gear-solid-portable-ops": {
+    "key": "Metal Gear Solid: Portable Ops",
+    "wikipedia": {
+      "title": "Metal Gear Solid: Portable Ops",
+      "url": "https://en.wikipedia.org/wiki/Metal_Gear_Solid:_Portable_Ops"
+    },
+    "qid": "Q1996911",
+    "summary": "Metal Gear Solid: Portable Ops, officially abbreviated MPO, is a 2006 action-adventure stealth game developed and published by Konami for the PlayStation Portable. The game was directed by Masahiro Yamamoto and written by Gakuto Mikumo, with series creator Hideo Kojima acting as producer.\nWhile not the first Metal Gear game for the PSP, unlike the previously released Metal Gear Acid and its sequel, as well as the Metal Gear Solid: Digital Graphic Novel, it retains the action-based play mechanics from the mainline series.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d2/Metal_Gear_Solid_Portable_Ops_cover.jpg",
+      "width": 480,
+      "height": 828,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Metal_Gear_Solid_Portable_Ops_cover.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:18.779Z",
+    "facts": {
+      "year": 2006,
+      "developers": [],
+      "publishers": [
+        "Konami"
+      ],
+      "genres": [
+        "action-adventure game"
+      ]
+    }
+  },
+  "monster-hunter-3-ultimate": {
+    "key": "Monster Hunter 3 Ultimate",
+    "wikipedia": {
+      "title": "Monster Hunter Tri",
+      "url": "https://en.wikipedia.org/wiki/Monster_Hunter_Tri"
+    },
+    "qid": "Q2312881",
+    "summary": "Monster Hunter Tri, also known as Monster Hunter 3, is the third console installment in the Monster Hunter franchise, developed by Capcom and released for the Wii in Japan on August 1, 2009. This was released on April 20, 2010, in North America, April 23 in Europe, and April 29 in Australia.\nThe game was originally planned to be a PlayStation 3 title, but was cancelled due to high development costs for that console.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/2c/Monster_Hunter_Tri_Box_Art.jpg",
+      "width": 480,
+      "height": 658,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Monster_Hunter_Tri_Box_Art.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:19.052Z",
+    "facts": {
+      "year": 2009,
+      "developers": [
+        "Capcom"
+      ],
+      "publishers": [
+        "Capcom"
+      ],
+      "genres": [
+        "action role-playing game"
+      ]
+    }
+  },
+  "monster-hunter-4-ultimate": {
+    "key": "Monster Hunter 4 Ultimate",
+    "wikipedia": {
+      "title": "Monster Hunter 4",
+      "url": "https://en.wikipedia.org/wiki/Monster_Hunter_4"
+    },
+    "qid": "Q3861001",
+    "summary": "Monster Hunter 4 is an action role-playing game developed and published by Capcom. It is the fourth game in the Monster Hunter series and the second to be released on the Nintendo 3DS. Originally released in Japan on September 14, 2013. On January 26, 2014, an enhanced edition titled Monster Hunter 4G was announced for release in Japan on October 11, 2014, and allowed players to utilize Monster Hunter 4 save files.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/39/Monster-Hunter_4Boxart.png",
+      "width": 480,
+      "height": 460,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Monster-Hunter_4Boxart.png"
+    },
+    "checkedAt": "2026-11-16T08:08:19.301Z",
+    "facts": {
+      "year": 2013,
+      "developers": [
+        "Capcom"
+      ],
+      "publishers": [
+        "Capcom"
+      ],
+      "genres": [
+        "action role-playing game"
+      ]
+    }
+  },
+  "monster-hunter-freedom-unite": {
+    "key": "Monster Hunter Freedom Unite",
+    "wikipedia": {
+      "title": "Monster Hunter Freedom Unite",
+      "url": "https://en.wikipedia.org/wiki/Monster_Hunter_Freedom_Unite"
+    },
+    "qid": "Q378928",
+    "summary": "Monster Hunter Freedom Unite is an action role-playing game developed and published by Capcom for the PlayStation Portable and iOS. It is an expanded version of the original Monster Hunter Freedom 2 and was released on March 27, 2008, in Japan as Monster Hunter Portable 2nd G (モンスターハンターポータブル2nd G, Monsutā Hantā Pōtaburu 2nd G).",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/01/MonsterHunterFreedomUnite.jpg",
+      "width": 480,
+      "height": 828,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:MonsterHunterFreedomUnite.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:19.573Z",
+    "facts": {
+      "year": 2008,
+      "developers": [
+        "Capcom"
+      ],
+      "publishers": [
+        "Capcom"
+      ],
+      "genres": [
+        "action role-playing game",
+        "role-playing"
+      ]
+    }
+  },
+  "mortal-kombat-komplete-edition": {
+    "key": "Mortal Kombat Komplete Edition",
+    "wikipedia": {
+      "title": "Mortal Kombat (2011 video game)",
+      "url": "https://en.wikipedia.org/wiki/Mortal_Kombat_(2011_video_game)"
+    },
+    "qid": "Q2074880",
+    "summary": "Mortal Kombat (also known as Mortal Kombat 9 (MK9)) is a 2011 fighting game developed by NetherRealm Studios and published by Warner Bros. Interactive Entertainment. It is the ninth main installment in the Mortal Kombat franchise and a soft reboot of the series.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1f/Mortal_Kombat_box_art.png",
+      "width": 480,
+      "height": 531,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Mortal_Kombat_box_art.png"
+    },
+    "checkedAt": "2026-11-16T08:08:19.833Z",
+    "facts": {
+      "year": 2011,
+      "developers": [
+        "NetherRealm Studios"
+      ],
+      "publishers": [
+        "Warner Bros. Games"
+      ],
+      "genres": [
+        "fighting game",
+        "crossover fiction"
+      ]
+    }
+  },
+  "mupen64plus": {
+    "key": "Mupen64Plus",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:20.397Z"
+  },
+  "namdhc": {
+    "key": "namDHC",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:20.752Z"
+  },
+  "neverball": {
+    "key": "Neverball",
+    "wikipedia": {
+      "title": "Super Monkey Ball (video game)",
+      "url": "https://en.wikipedia.org/wiki/Super_Monkey_Ball_(video_game)"
+    },
+    "qid": "Q289882",
+    "summary": "Super Monkey Ball is a 2001 video game developed by Amusement Vision and published by Sega. The game debuted in Japan at the 2001 Amusement Operators Union trade show as Monkey Ball, an arcade cabinet running on Sega's NAOMI hardware and controlled with a distinctive banana-shaped analog stick. Due to the discontinuation of Sega's Dreamcast home console and the company's subsequent restructuring, an enhanced port dubbed Super Monkey Ball was released as a launch title for the GameCube in late 2001, garnering interest as Sega's first game published for a Nintendo home console.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/96/Super_Monkey_Ball_Coverart.png",
+      "width": 480,
+      "height": 681,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Super_Monkey_Ball_Coverart.png"
+    },
+    "checkedAt": "2026-11-16T08:08:21.058Z"
+  },
+  "ninja-gaiden-ii": {
+    "key": "Ninja Gaiden II",
+    "wikipedia": {
+      "title": "Ninja Gaiden II",
+      "url": "https://en.wikipedia.org/wiki/Ninja_Gaiden_II"
+    },
+    "qid": "Q2557356",
+    "summary": "Ninja Gaiden II is a 2008 action-adventure game developed by Team Ninja and published by Microsoft Game Studios for the Xbox 360. It was the last game directed by Tomonobu Itagaki before his departure from Tecmo. An alternative version, Ninja Gaiden Sigma 2, was released by Tecmo Koei for the PlayStation 3 in 2009, and for the PlayStation Vita in 2013.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Ninja_Gaiden_II.jpg",
+      "width": 480,
+      "height": 591,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Ninja_Gaiden_II.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:21.351Z",
+    "facts": {
+      "year": 2008,
+      "developers": [
+        "Team Ninja"
+      ],
+      "publishers": [
+        "Microsoft"
+      ],
+      "genres": [
+        "action-adventure game",
+        "hack and slash"
+      ]
+    }
+  },
+  "onscripter-en": {
+    "key": "ONScripter-EN",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:21.726Z"
+  },
+  "openbor": {
+    "key": "OpenBOR",
+    "wikipedia": {
+      "title": "Beats of Rage",
+      "url": "https://en.wikipedia.org/wiki/Beats_of_Rage"
+    },
+    "qid": "Q15739157",
+    "summary": "Beats of Rage is a fan-made beat 'em up tribute game to Sega's Streets of Rage series. It supplants the original graphics and characters with resources taken from The King of Fighters series, albeit with tongue-in-cheek renames. Originally developed by Senile Team, the underlying engine powering Beats of Rage later went on to become the Open Beats of Rage (OpenBOR) game engine project.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/61/Beats_of_Rage_Logo.jpg",
+      "width": 480,
+      "height": 98,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Beats_of_Rage_Logo.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:22.026Z"
+  },
+  "openlierox": {
+    "key": "OpenLieroX",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:22.427Z"
+  },
+  "opensoldat": {
+    "key": "OpenSoldat",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:22.789Z"
+  },
+  "pcem": {
+    "key": "PCem",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:23.898Z"
+  },
+  "pcsx2x6": {
+    "key": "PCSX2x6",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:24.199Z"
+  },
+  "pharaoh": {
+    "key": "Pharaoh",
+    "wikipedia": {
+      "title": "Pharaoh (video game)",
+      "url": "https://en.wikipedia.org/wiki/Pharaoh_(video_game)"
+    },
+    "qid": "Q717202",
+    "summary": "Pharaoh is an isometric city-building game released in November 1999. It was created by Impressions Games and published by Sierra Studios for Microsoft Windows. Using the same game engine and principles of Caesar III (also by Sierra Entertainment), it is the first such game in Sierra's City Building series to focus on another civilization of ancient times.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/46/Pharaoh_Coverart.png",
+      "width": 480,
+      "height": 601,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Pharaoh_Coverart.png"
+    },
+    "checkedAt": "2026-11-16T08:08:24.490Z",
+    "facts": {
+      "year": 1999,
+      "developers": [
+        "Impressions Games",
+        "BreakAway Games"
+      ],
+      "publishers": [
+        "Play-It"
+      ],
+      "genres": [
+        "strategy",
+        "simulation",
+        "city-building game",
+        "historical"
+      ]
+    }
+  },
+  "pioneer-space-simulator": {
+    "key": "Pioneer Space Simulator",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:24.940Z"
+  },
+  "plants-vs-zombies": {
+    "key": "Plants vs. Zombies",
+    "wikipedia": {
+      "title": "Plants vs. Zombies (video game)",
+      "url": "https://en.wikipedia.org/wiki/Plants_vs._Zombies_(video_game)"
+    },
+    "qid": "Q379128",
+    "summary": "Plants vs. Zombies is a 2009 tower defense video game developed and published by PopCap Games. First released for Windows and macOS, the game has since been ported to consoles, handhelds, and mobile devices.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9c/PlantsvsZombiesCoverArt.jpg",
+      "width": 480,
+      "height": 720,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:PlantsvsZombiesCoverArt.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:25.205Z",
+    "facts": {
+      "year": 2009,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "tower defense"
+      ]
+    }
+  },
+  "pokemon-legends-arceus": {
+    "key": "Pokémon Legends: Arceus",
+    "wikipedia": {
+      "title": "Pokémon Legends: Arceus",
+      "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Legends:_Arceus"
+    },
+    "qid": "Q105688771",
+    "summary": "Pokémon Legends: Arceus is a 2022 action role-playing game developed by Game Freak and published by Nintendo and The Pokémon Company for the Nintendo Switch. It is part of the eighth generation of the Pokémon video game series and serves as a prequel to the fourth-generation titles Pokémon Diamond and Pearl (2006). The game was first announced as part of the Pokémon 25th Anniversary event in February 2021, and was released worldwide on 28 January 2022.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9c/Pokemon_Legends_Arceus_cover.jpg",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Pokemon_Legends_Arceus_cover.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:25.494Z",
+    "facts": {
+      "year": 2022,
+      "developers": [
+        "Game Freak"
+      ],
+      "publishers": [
+        "The Pokémon Company",
+        "Nintendo"
+      ],
+      "genres": [
+        "role-playing",
+        "action role-playing game"
+      ]
+    }
+  },
+  "pokemon-legends-z-a": {
+    "key": "Pokémon Legends: Z-A",
+    "wikipedia": {
+      "title": "Pokémon Legends: Z-A",
+      "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Legends:_Z-A"
+    },
+    "qid": "Q124672125",
+    "summary": "Pokémon Legends: Z-A is a 2025 action role-playing game developed by Game Freak and published by Nintendo and The Pokémon Company for the Nintendo Switch and Nintendo Switch 2. Part of the ninth generation of Pokémon video games, it is a sequel to the sixth-generation titles Pokémon X and Y (2013) and the second entry in the Pokémon Legends sub-series, following Pokémon Legends: Arceus (2022). The game takes place entirely in the Kalos region's Lumiose City, five years after the events of X and Y.\nPokémon Legends: Z-A was announced in February 2024 as an exclusive to the original Switch console, before it was later announced that it would also receive an enhanced port for the Switch 2.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/2d/Pokemon_Legends_Z-A_Key_Art_Logo.png",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Pokemon_Legends_Z-A_Key_Art_Logo.png"
+    },
+    "checkedAt": "2026-11-16T08:08:25.785Z",
+    "facts": {
+      "year": 2025,
+      "developers": [
+        "Game Freak"
+      ],
+      "publishers": [
+        "The Pokémon Company",
+        "Nintendo"
+      ],
+      "genres": [
+        "role-playing"
+      ]
+    }
+  },
+  "pokemon-lets-go-pikachu-lets-go-eevee": {
+    "key": "Pokémon Let's Go, Pikachu! / Let's Go, Eevee!",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:26.273Z"
+  },
+  "pokemon-sword": {
+    "key": "Pokémon Sword",
+    "wikipedia": {
+      "title": "Pokémon Sword and Shield",
+      "url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Sword_and_Shield"
+    },
+    "qid": "Q61897498",
+    "summary": "Pokémon Sword and Pokémon Shield are 2019 role-playing video games developed by Game Freak and published by The Pokémon Company and Nintendo for the Nintendo Switch console. They are the first instalments in the 8th generation of the Pokémon video game series. First teased at E3 2017 and announced in February 2019, the games were released on 15 November 2019.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Pok%C3%A9mon_Sword_and_Shield.jpg",
+      "width": 480,
+      "height": 240,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Pok%C3%A9mon_Sword_and_Shield.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:26.548Z",
+    "facts": {
+      "year": 2019,
+      "developers": [
+        "Game Freak"
+      ],
+      "publishers": [
+        "Nintendo",
+        "The Pokémon Company"
+      ],
+      "genres": [
+        "role-playing"
+      ]
+    }
+  },
+  "predator-concrete-jungle": {
+    "key": "Predator: Concrete Jungle",
+    "wikipedia": {
+      "title": "Predator: Concrete Jungle",
+      "url": "https://en.wikipedia.org/wiki/Predator:_Concrete_Jungle"
+    },
+    "qid": "Q2633517",
+    "summary": "Predator: Concrete Jungle is a 2005 action video game developed by Eurocom for the PlayStation 2 and Xbox consoles. In the game the player controls a disgraced Predator who must regain his honor by killing the humans who have stolen his technology. The game is named after the first volume of the Dark Horse Comics Predator comics series, but does not share the same plot.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/57/Predator_concrete_jungle_PS2.jpg",
+      "width": 480,
+      "height": 587,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Predator_concrete_jungle_PS2.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:26.795Z",
+    "facts": {
+      "year": 2005,
+      "developers": [
+        "Eurocom"
+      ],
+      "publishers": [],
+      "genres": [
+        "action-adventure game",
+        "action game",
+        "cyberpunk"
+      ]
+    }
+  },
+  "prey": {
+    "key": "Prey",
+    "wikipedia": {
+      "title": "Prey (2006 video game)",
+      "url": "https://en.wikipedia.org/wiki/Prey_(2006_video_game)"
+    },
+    "qid": "Q1535818",
+    "summary": "Prey is a 2006 first-person shooter game developed by Human Head Studios, under contract for 3D Realms, and published by 2K Games, while the Xbox 360 version was ported by Venom Games. The game was initially released in North America and Europe on July 11, 2006. Prey uses a heavily modified version of id Tech 4 to use portals and variable gravity to create the environments the player explores.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/51/Prey_%28Xbox_360%29.jpg",
+      "width": 480,
+      "height": 687,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Prey_(Xbox_360).jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:27.433Z",
+    "facts": {
+      "year": 2006,
+      "developers": [
+        "Human Head Studios"
+      ],
+      "publishers": [
+        "2K"
+      ],
+      "genres": [
+        "first-person shooter",
+        "science fiction"
+      ]
+    }
+  },
+  "pro-evolution-soccer-2017": {
+    "key": "Pro Evolution Soccer 2017",
+    "wikipedia": {
+      "title": "Pro Evolution Soccer 2017",
+      "url": "https://en.wikipedia.org/wiki/Pro_Evolution_Soccer_2017"
+    },
+    "qid": "Q24326087",
+    "summary": "Pro Evolution Soccer 2017 (officially abbreviated as PES 2017, also known in some Asian countries as Winning Eleven 2017) is a sports video game developed by PES Productions and published by Konami for Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Android and iOS. The game is the 16th installment in the Pro Evolution Soccer series. It was released in September 2016 and is compatible with PS4 Pro console.\nKonami partnered with FC Barcelona, Liverpool F.C., Borussia Dortmund and Club Atlético River Plate which will include recreation of the official kits, player faces, club logos and stadia among other exclusive content.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f7/Pro_Evolution_2017_Cover_Art.png",
+      "width": 480,
+      "height": 606,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Pro_Evolution_2017_Cover_Art.png"
+    },
+    "checkedAt": "2026-11-16T08:08:27.703Z",
+    "facts": {
+      "year": 2016,
+      "developers": [
+        "Konami"
+      ],
+      "publishers": [
+        "Konami"
+      ],
+      "genres": [
+        "association football"
+      ]
+    }
+  },
+  "psychengine": {
+    "key": "PsychEngine",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:28.085Z"
+  },
+  "python-patcher": {
+    "key": "Python Patcher",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:28.525Z"
+  },
+  "quetoo": {
+    "key": "Quetoo",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:28.880Z"
+  },
+  "r2modman": {
+    "key": "r2modman",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:29.216Z"
+  },
+  "red-dead-revolver": {
+    "key": "Red Dead Revolver",
+    "wikipedia": {
+      "title": "Red Dead Revolver",
+      "url": "https://en.wikipedia.org/wiki/Red_Dead_Revolver"
+    },
+    "qid": "Q641697",
+    "summary": "Red Dead Revolver is a 2004 action-adventure game developed by Rockstar San Diego and published by Rockstar Games. It is the first entry in the Red Dead series, and was released for the PlayStation 2 and Xbox in May 2004. Set in the 1880s, during the American frontier, the single-player story follows bounty hunter Red Harlow's quest for revenge after the murder of his parents.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c1/Red_Dead_Revolver_Coverart.jpg",
+      "width": 480,
+      "height": 592,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Red_Dead_Revolver_Coverart.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:29.503Z",
+    "facts": {
+      "year": 2004,
+      "developers": [],
+      "publishers": [
+        "Capcom"
+      ],
+      "genres": [
+        "third-person shooter"
+      ]
+    }
+  },
+  "reloaded-ii": {
+    "key": "Reloaded II",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:29.909Z"
+  },
+  "resident-evil": {
+    "key": "Resident Evil",
+    "wikipedia": {
+      "title": "Resident Evil (1996 video game)",
+      "url": "https://en.wikipedia.org/wiki/Resident_Evil_(1996_video_game)"
+    },
+    "qid": "Q1248594",
+    "summary": "Resident Evil is a 1996 survival horror video game developed and published by Capcom for the PlayStation. It is the first main installment in Capcom's Resident Evil series. Set in the fictional Arklay mountain region in the Midwest, players control Chris Redfield and Jill Valentine, members of the elite task force S.T.A.R.S., who must escape a mansion infested with zombies and other monsters.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a6/Resident_Evil_1_cover.png",
+      "width": 480,
+      "height": 725,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Resident_Evil_1_cover.png"
+    },
+    "checkedAt": "2026-11-16T08:08:30.578Z",
+    "facts": {
+      "year": 1996,
+      "developers": [
+        "Capcom"
+      ],
+      "publishers": [
+        "Capcom"
+      ],
+      "genres": [
+        "survival horror"
+      ]
+    }
+  },
+  "rollercoaster-tycoon": {
+    "key": "RollerCoaster Tycoon",
+    "wikipedia": {
+      "title": "RollerCoaster Tycoon (video game)",
+      "url": "https://en.wikipedia.org/wiki/RollerCoaster_Tycoon_(video_game)"
+    },
+    "qid": "Q5800778",
+    "summary": "RollerCoaster Tycoon is a 1999 construction and management simulation video game developed, designed and programmed by Chris Sawyer. It was published by Hasbro Interactive under the MicroProse label for Windows. Frontier Developments developed an Xbox port, which was released in 2003.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1d/Rct-box.jpg",
+      "width": 480,
+      "height": 577,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Rct-box.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:30.867Z",
+    "facts": {
+      "year": 1999,
+      "developers": [
+        "Frontier Developments"
+      ],
+      "publishers": [
+        "Hasbro Interactive",
+        "Suntendy Interactive Multimedia Co.,Ltd."
+      ],
+      "genres": [
+        "construction and management simulation"
+      ]
+    }
+  },
+  "rumble-roses-xx": {
+    "key": "Rumble Roses XX",
+    "wikipedia": {
+      "title": "Rumble Roses XX",
+      "url": "https://en.wikipedia.org/wiki/Rumble_Roses_XX"
+    },
+    "qid": "Q17042840",
+    "summary": "Rumble Roses XX (ランブルローズXX, Ranburu Rōzu XX) is a professional wrestling fighting game developed by Yuke's for the Xbox 360 as the sequel to the 2004 PlayStation 2 game Rumble Roses. The game was released by Konami in 2006.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/1a/Rumble_Roses_XX.jpg",
+      "width": 480,
+      "height": 677,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Rumble_Roses_XX.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:31.126Z",
+    "facts": {
+      "year": 2006,
+      "developers": [
+        "Yuke's"
+      ],
+      "publishers": [
+        "Konami"
+      ],
+      "genres": [
+        "fighting game"
+      ]
+    }
+  },
+  "stalker": {
+    "key": "S.T.A.L.K.E.R.",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:08:31.716Z"
+  },
+  "sonic-the-hedgehog-2006": {
+    "key": "Sonic the Hedgehog 2006",
+    "wikipedia": {
+      "title": "Sonic the Hedgehog (2006 video game)",
+      "url": "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(2006_video_game)"
+    },
+    "qid": "Q1068669",
+    "summary": "Sonic the Hedgehog, commonly referred to as Sonic '06, is a 2006 platform game developed by Sonic Team and published by Sega. It was intended as a reboot of the Sonic franchise for seventh-generation video game consoles. Players control Sonic, Shadow, and the new character Silver as they seek to defeat Solaris, an ancient evil pursued by Doctor Eggman.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d1/Sonic_the_Hedgehog_Next-Gen_Box_Art.JPG",
+      "width": 480,
+      "height": 720,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Sonic_the_Hedgehog_Next-Gen_Box_Art.JPG"
+    },
+    "checkedAt": "2026-11-16T08:08:31.978Z",
+    "facts": {
+      "year": 2006,
+      "developers": [
+        "Sonic Team"
+      ],
+      "publishers": [],
+      "genres": [
+        "platform game",
+        "post-apocalyptic"
+      ]
+    }
+  },
+  "splatoon": {
+    "key": "Splatoon",
+    "wikipedia": {
+      "title": "Splatoon (video game)",
+      "url": "https://en.wikipedia.org/wiki/Splatoon_(video_game)"
+    },
+    "qid": "Q17490239",
+    "summary": "Splatoon is a 2015 third-person shooter game developed and published by Nintendo for the Wii U. The game centers around player-controlled Inklings—squid-like creatures that can transform between humanoid and cephalopodic forms at will. The game centers on a variety of four-on-four online multiplayer game modes that sees Inklings use a variety of weapons that can produce and shoot ink while in their humanoid forms or tread through and hide in surfaces covered in their own ink while in their cephalopodic forms. It also includes a dedicated single-player story campaign.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/bb/Splatoon.jpg",
+      "width": 480,
+      "height": 606,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Splatoon.jpg"
+    },
+    "checkedAt": "2026-11-16T08:08:32.255Z",
+    "facts": {
+      "year": 2015,
+      "developers": [
+        "Nintendo Entertainment Analysis & Development"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "third-person shooter",
+        "post-apocalyptic"
+      ]
+    }
+  },
+  "the-last-of-us-remastered": {
+    "key": "The Last of Us Remastered",
+    "wikipedia": {
+      "title": "The Last of Us (video game)",
+      "url": "https://en.wikipedia.org/wiki/The_Last_of_Us_(video_game)"
+    },
+    "qid": "Q1986744",
+    "summary": "The Last of Us is a 2013 action-adventure game developed by Naughty Dog and published by Sony Computer Entertainment. Players control Joel, a smuggler tasked with escorting a teenage girl, Ellie, across a post-apocalyptic United States. The Last of Us is played from a third-person perspective.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/46/Video_Game_Cover_-_The_Last_of_Us.jpg",
+      "width": 480,
+      "height": 638,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Video_Game_Cover_-_The_Last_of_Us.jpg"
+    },
+    "checkedAt": "2026-11-16T08:09:03.286Z",
+    "facts": {
+      "year": 2013,
+      "developers": [
+        "Naughty Dog"
+      ],
+      "publishers": [
+        "Sony Interactive Entertainment"
+      ],
+      "genres": [
+        "action-adventure game",
+        "survival horror",
+        "stealth game",
+        "post-apocalyptic"
+      ]
+    }
+  },
+  "thrill-drive-2": {
+    "key": "Thrill Drive 2",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:09:03.800Z"
+  },
+  "touchhle": {
+    "key": "touchHLE",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:09:04.197Z"
+  },
+  "tsukihime-a-piece-of-blue-glass-moon": {
+    "key": "Tsukihime -A piece of blue glass moon-",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:09:04.513Z"
+  },
+  "ultima-online": {
+    "key": "Ultima Online",
+    "wikipedia": {
+      "title": "Ultima Online",
+      "url": "https://en.wikipedia.org/wiki/Ultima_Online"
+    },
+    "qid": "Q1043550",
+    "summary": "Ultima Online (UO) is a fantasy massively multiplayer online role-playing game (MMORPG) released on September 24, 1997 by Origin Systems.\nSet in the Ultima universe, it is known for its extensive player versus player combat system. Since its release, it has added eight expansion packs, a booster pack, and dozens of free content updates.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/76/Ultima_Online_cover.jpg",
+      "width": 480,
+      "height": 641,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Ultima_Online_cover.jpg"
+    },
+    "checkedAt": "2026-11-16T08:09:04.767Z",
+    "facts": {
+      "year": 1997,
+      "developers": [
+        "Origin Systems"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "massively multiplayer online role-playing game"
+      ]
+    }
+  },
+  "unverum": {
+    "key": "Unverum",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:09:05.083Z"
+  },
+  "vega-strike": {
+    "key": "Vega Strike",
+    "wikipedia": {
+      "title": "Vega Strike",
+      "url": "https://en.wikipedia.org/wiki/Vega_Strike"
+    },
+    "qid": "Q2140881",
+    "summary": "Vega Strike is a first-person space trading and combat simulator, developed for Microsoft Windows, Linux, FreeBSD and OS X systems. Many of the core game mechanics of Vega Strike are indirectly inspired by Elite. Other games, such as Wing Commander: Privateer, influenced the original developer.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Vega_Strike_Icon.png",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vega_Strike_Icon.png"
+    },
+    "checkedAt": "2026-11-16T08:09:05.340Z",
+    "facts": {
+      "year": null,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "space simulator",
+        "space trading and combat game"
+      ]
+    }
+  },
+  "victoria-2": {
+    "key": "Victoria 2",
+    "wikipedia": {
+      "title": "Victoria II",
+      "url": "https://en.wikipedia.org/wiki/Victoria_II"
+    },
+    "qid": "Q1366277",
+    "summary": "Victoria II is a grand strategy game developed by the Swedish game company Paradox Development Studio and published by Paradox Interactive. It was announced on August 19, 2009, and released on August 13, 2010. It is a sequel to Victoria: An Empire Under the Sun.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/de/Victoria2boxart.jpg",
+      "width": 480,
+      "height": 672,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Victoria2boxart.jpg"
+    },
+    "checkedAt": "2026-11-16T08:09:05.609Z",
+    "facts": {
+      "year": 2010,
+      "developers": [
+        "Development Studio"
+      ],
+      "publishers": [
+        "Paradox Interactive"
+      ],
+      "genres": [
+        "grand strategy wargame",
+        "real-time strategy",
+        "computer wargame",
+        "historical"
+      ]
+    }
+  },
+  "widelands": {
+    "key": "Widelands",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:09:06.102Z"
+  },
+  "windows-frotz": {
+    "key": "Windows Frotz",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:09:06.483Z"
+  },
+  "wipeout-omega-collection": {
+    "key": "WipEout Omega Collection",
+    "wikipedia": {
+      "title": "Wipeout Omega Collection",
+      "url": "https://en.wikipedia.org/wiki/Wipeout_Omega_Collection"
+    },
+    "qid": "Q28406508",
+    "summary": "Wipeout Omega Collection (stylised as WipE′out Omega Collection) is a 2017 racing video game compilation developed by XDev, Clever Beans and EPOS Game Studios and published by Sony Interactive Entertainment for the PlayStation 4. It was first released in North America on 6 June 2017, and in Europe a day later.\nThe compilation includes remasters of two entries in the series: Wipeout HD (2008), along with its Wipeout HD Fury expansion (2009), and Wipeout 2048 (2012).",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/ae/WipeoutOmega_coverUS.jpg",
+      "width": 480,
+      "height": 683,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:WipeoutOmega_coverUS.jpg"
+    },
+    "checkedAt": "2026-11-16T08:09:06.762Z",
+    "facts": {
+      "year": 2017,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "racing"
+      ]
+    }
+  },
+  "wyrmsun": {
+    "key": "Wyrmsun",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:09:07.160Z"
+  },
+  "x-moto": {
+    "key": "X-Moto",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:09:07.656Z"
+  },
+  "xenoblade-chronicles-2": {
+    "key": "Xenoblade Chronicles 2",
+    "wikipedia": {
+      "title": "Xenoblade Chronicles 2",
+      "url": "https://en.wikipedia.org/wiki/Xenoblade_Chronicles_2"
+    },
+    "qid": "Q28312052",
+    "summary": "Xenoblade Chronicles 2 is a 2017 action role-playing game developed by Monolith Soft and published by Nintendo for the Nintendo Switch. It is the third installment in the Xenoblade series and the sixth main entry in the Xeno series, and was released on December 1. Plans for the game began shortly before the launch of Xenoblade Chronicles X in 2014.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/4a/Xenoblade_Chronicles_2.jpg",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Xenoblade_Chronicles_2.jpg"
+    },
+    "checkedAt": "2026-11-16T08:09:07.954Z",
+    "facts": {
+      "year": 2017,
+      "developers": [
+        "Monolith Soft Inc."
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "action role-playing game",
+        "video game with LGBT character",
+        "Japanese role-playing"
+      ]
+    }
+  },
+  "xenoblade-chronicles-x": {
+    "key": "Xenoblade Chronicles X",
+    "wikipedia": {
+      "title": "Xenoblade Chronicles X",
+      "url": "https://en.wikipedia.org/wiki/Xenoblade_Chronicles_X"
+    },
+    "qid": "Q15614860",
+    "summary": "Xenoblade Chronicles X is a 2015 action role-playing game developed by Monolith Soft and published by Nintendo for the Wii U. The game is part of the Xenoblade series, itself forming part of the wider Xeno metaseries. Carrying over several gameplay elements from the original game, players explore the open world planet Mira, completing a variety of quests and unlocking new regions to explore and gather resources from across its five continents. The story follows a surviving human ship after escaping an alien battle which destroys Earth, with the player character joining the BLADE unit to defend the human survivors and uncover Mira's secrets.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/7/7f/Xenoblade_Chronicles_X_-_Boxart.jpg",
+      "width": 480,
+      "height": 595,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Xenoblade_Chronicles_X_-_Boxart.jpg"
+    },
+    "checkedAt": "2026-11-16T08:09:08.213Z",
+    "facts": {
+      "year": 2015,
+      "developers": [
+        "Monolith Soft Inc."
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "action role-playing game"
+      ]
+    }
+  },
+  "yu-gi-oh-gx-tag-force": {
+    "key": "Yu-Gi-Oh! GX Tag Force",
+    "wikipedia": null,
+    "checkedAt": "2026-11-16T08:09:08.848Z"
+  },
+  "zeus-master-of-olympus": {
+    "key": "Zeus: Master of Olympus",
+    "wikipedia": {
+      "title": "Zeus: Master of Olympus",
+      "url": "https://en.wikipedia.org/wiki/Zeus:_Master_of_Olympus"
+    },
+    "qid": "Q736865",
+    "summary": "Zeus: Master of Olympus is a single-player strategy game developed by Impressions Games and published by Sierra Studios. It is considered to be an additional installment in the City Building series of games. Like previous titles in the series, Zeus focuses on the building and development of a city in ancient times.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8e/Master_of_Olympus_-_Zeus_Coverart.png",
+      "width": 480,
+      "height": 636,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Master_of_Olympus_-_Zeus_Coverart.png"
+    },
+    "checkedAt": "2026-11-16T08:09:09.098Z",
+    "facts": {
+      "year": 2000,
+      "developers": [
+        "Impressions Games"
+      ],
+      "publishers": [],
+      "genres": [
+        "city-building game"
+      ]
+    }
+  },
+  "zone-of-the-enders": {
+    "key": "Zone of the Enders",
+    "wikipedia": {
+      "title": "Zone of the Enders (video game)",
+      "url": "https://en.wikipedia.org/wiki/Zone_of_the_Enders_(video_game)"
+    },
+    "qid": "Q2711870",
+    "summary": "Zone of the Enders (ZONE OF THE ENDERS(ゾーン　オブ　エンダーズ), Zōn obu Endāzu; ZONE OF ENDERS), officially abbreviated as Z.O.E., is a 2001 action hack-and-slash video game developed and published by Konami for the Sony PlayStation 2. The game is based around mecha combat in outer space. Over the course of the game, the player obtains new weapons and has to protect towns from enemies.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8b/Zone_of_the_Enders_Cover.jpg",
+      "width": 480,
+      "height": 671,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Zone_of_the_Enders_Cover.jpg"
+    },
+    "checkedAt": "2026-11-16T08:09:09.405Z",
+    "facts": {
+      "year": 2001,
+      "developers": [
+        "Konami"
+      ],
+      "publishers": [
+        "Konami"
+      ],
+      "genres": [
+        "hack and slash",
+        "third-person shooter",
+        "mecha"
+      ]
+    }
   }
 }
