@@ -16118,5 +16118,1250 @@
         "mecha"
       ]
     }
+  },
+  "3d-movie-maker": {
+    "key": "3D Movie Maker",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:05.015Z"
+  },
+  "aaaaxy": {
+    "key": "AAAAXY",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:05.329Z"
+  },
+  "adventure-game-studio": {
+    "key": "Adventure Game Studio",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:05.843Z"
+  },
+  "age-of-empires-online": {
+    "key": "Age of Empires Online",
+    "wikipedia": {
+      "title": "Age of Empires Online",
+      "url": "https://en.wikipedia.org/wiki/Age_of_Empires_Online"
+    },
+    "qid": "Q34920",
+    "summary": "Age of Empires Online is a discontinued multiplayer online real-time strategy game developed by Robot Entertainment and Gas Powered Games that was released on August 16, 2011. Based upon the gameplay of the Age of Empires series, it was originally developed by Robot Entertainment, but on February 24, 2011, Gas Powered Games, took over production. The game was published by Microsoft.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/66/Age_of_Empire_Online_cover.jpg",
+      "width": 480,
+      "height": 671,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Age_of_Empire_Online_cover.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:06.075Z",
+    "facts": {
+      "year": 2011,
+      "developers": [
+        "Robot Entertainment",
+        "Wargaming Seattle"
+      ],
+      "publishers": [
+        "Xbox Game Studios"
+      ],
+      "genres": [
+        "massively multiplayer online real-time strategy game"
+      ]
+    }
+  },
+  "albion": {
+    "key": "Albion",
+    "wikipedia": {
+      "title": "Albion (video game)",
+      "url": "https://en.wikipedia.org/wiki/Albion_(video_game)"
+    },
+    "qid": "Q1411896",
+    "summary": "Albion is a role-playing video game, developed and published by Blue Byte for MS-DOS. Originally released in German in 1995, the game was later translated to English for international release the following year. The game, which mostly involves traditional fantasy elements, such as magic, combined with a science fiction setting, sees players assume the role of a space pilot aboard a mining colony ship, who becomes stranded on a world set to be mined for its resources, despite it teeming with life and sentient races.\nThe game is considered a spiritual successor to the Amiga role-playing video games Amberstar and Ambermoon, bearing very similar gameplay and being developed by the same core team under the Thalion Software name.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Albion_cover.jpg",
+      "width": 480,
+      "height": 478,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Albion_cover.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:06.347Z",
+    "facts": {
+      "year": 1996,
+      "developers": [
+        "Ubisoft Blue Byte"
+      ],
+      "publishers": [
+        "Ubisoft Blue Byte"
+      ],
+      "genres": [
+        "role-playing",
+        "science fiction"
+      ]
+    }
+  },
+  "aliens-vs-predator-classic": {
+    "key": "Aliens vs Predator Classic",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:06.801Z"
+  },
+  "amnesia-the-dark-descent": {
+    "key": "Amnesia: The Dark Descent",
+    "wikipedia": {
+      "title": "Amnesia: The Dark Descent",
+      "url": "https://en.wikipedia.org/wiki/Amnesia:_The_Dark_Descent"
+    },
+    "qid": "Q22986",
+    "summary": "Amnesia: The Dark Descent is a 2010 survival horror adventure game developed and published by the Swedish game development studio Frictional Games. It was first released on 8 September 2010 for Microsoft Windows, Mac OS X, and Linux. Later, it was released to PlayStation 4 on 22 November 2016, Xbox One on 28 September 2018, and Nintendo Switch on 12 September 2019 as part of The Amnesia Collection.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/62/Amnesia-The-Dark-Descent-Cover-Art.png",
+      "width": 480,
+      "height": 677,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Amnesia-The-Dark-Descent-Cover-Art.png"
+    },
+    "checkedAt": "2026-11-23T17:07:07.046Z",
+    "facts": {
+      "year": 2010,
+      "developers": [
+        "Frictional Games"
+      ],
+      "publishers": [
+        "THQ",
+        "Frictional Games"
+      ],
+      "genres": [
+        "psychological horror fiction"
+      ]
+    }
+  },
+  "angband": {
+    "key": "Angband",
+    "wikipedia": {
+      "title": "Angband (video game)",
+      "url": "https://en.wikipedia.org/wiki/Angband_(video_game)"
+    },
+    "qid": "Q244140",
+    "summary": "Angband is a dungeon-crawling roguelike video game derived from Umoria. It is based on the writings of J. R. R. Tolkien, in which Angband is the fortress of Morgoth. The current version of Angband is available for all major operating systems, including Unix, Windows, Mac OS X, and Android.",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Angband.png/500px-Angband.png",
+      "width": 480,
+      "height": 300,
+      "source": "Wikipedia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angband.png"
+    },
+    "checkedAt": "2026-11-23T17:07:07.291Z",
+    "facts": {
+      "year": 1990,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "roguelike"
+      ]
+    }
+  },
+  "assaultcube": {
+    "key": "AssaultCube",
+    "wikipedia": {
+      "title": "AssaultCube",
+      "url": "https://en.wikipedia.org/wiki/AssaultCube"
+    },
+    "qid": "Q739804",
+    "summary": "AssaultCube, formerly ActionCube, is an open source first-person shooter video game, based on Cube and using the Cube Engine. Although the main focus of AssaultCube is multiplayer online gaming, a single-player mode consists of computer-controlled bots.\nAssaultCube utilises efficient bandwidth usage, allowing the game to be run with connection speeds as low as 56kbit/s.",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6d/AssaultCube_logo.svg/500px-AssaultCube_logo.svg.png",
+      "width": 480,
+      "height": 219,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:AssaultCube_logo.svg"
+    },
+    "checkedAt": "2026-11-23T17:07:07.563Z",
+    "facts": {
+      "year": 2008,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "first-person shooter"
+      ]
+    }
+  },
+  "bombsquad": {
+    "key": "BombSquad",
+    "wikipedia": {
+      "title": "Bomb Squad (video game)",
+      "url": "https://en.wikipedia.org/wiki/Bomb_Squad_(video_game)"
+    },
+    "qid": "Q4940427",
+    "summary": "Bomb Squad is a puzzle video game released for the Mattel Intellivision in 1982.  It is the second of five games released for the console that requires the Intellivoice speech synthesis module.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e4/Bomb-squad-box.jpg",
+      "width": 480,
+      "height": 662,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Bomb-squad-box.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:08.088Z",
+    "facts": {
+      "year": null,
+      "developers": [
+        "Mattel Electronics"
+      ],
+      "publishers": [
+        "Mattel Electronics"
+      ],
+      "genres": [
+        "puzzle"
+      ]
+    }
+  },
+  "breath-of-fire-iii": {
+    "key": "Breath of Fire III",
+    "wikipedia": {
+      "title": "Breath of Fire III",
+      "url": "https://en.wikipedia.org/wiki/Breath_of_Fire_III"
+    },
+    "qid": "Q2302461",
+    "summary": "Breath of Fire III is a role-playing video game developed and published by Capcom originally for the PlayStation console as part of the Breath of Fire series. It was released in Japan on September 11, 1997, and in North America and Europe in 1998. It is the first game in the franchise to feature three-dimensional graphics and voice acting.",
+    "cover": null,
+    "checkedAt": "2026-11-23T17:07:08.352Z",
+    "facts": {
+      "year": 1997,
+      "developers": [
+        "Capcom"
+      ],
+      "publishers": [
+        "Tommo Inc."
+      ],
+      "genres": [
+        "role-playing"
+      ]
+    }
+  },
+  "burnout-dominator": {
+    "key": "Burnout Dominator",
+    "wikipedia": {
+      "title": "Burnout Dominator",
+      "url": "https://en.wikipedia.org/wiki/Burnout_Dominator"
+    },
+    "qid": "Q578147",
+    "summary": "Burnout Dominator is a 2007 racing video game developed by EA UK and published by Electronic Arts for PlayStation 2 and PlayStation Portable. It retains the core gameplay of the series, as players race at top speeds through dozens of World Tour events testing \"reckless skill-based\" driving techniques.\nThis is the only Burnout game that was not developed by Criterion Games although the logo appears at the startup, and the first Burnout game in the series since Burnout 2: Point of Impact to not feature the \"Crash Mode\".",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Burnout_Dominator.jpg",
+      "width": 480,
+      "height": 681,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Burnout_Dominator.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:08.576Z",
+    "facts": {
+      "year": 2007,
+      "developers": [
+        "Electronic Arts"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "racing"
+      ]
+    }
+  },
+  "castlevania-remnants-of-darkness": {
+    "key": "Castlevania: Remnants of Darkness",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:09.004Z"
+  },
+  "clonk-rage": {
+    "key": "Clonk Rage",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:09.378Z"
+  },
+  "command-and-conquer-red-alert-2-yuris-revenge": {
+    "key": "Command & Conquer: Red Alert 2 – Yuri's Revenge",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:09.880Z"
+  },
+  "counter-strike-16": {
+    "key": "Counter-Strike 1.6",
+    "wikipedia": {
+      "title": "Counter-Strike (video game)",
+      "url": "https://en.wikipedia.org/wiki/Counter-Strike_(video_game)"
+    },
+    "qid": "Q163628",
+    "summary": "Counter-Strike (also known as Half-Life: Counter-Strike or Counter-Strike 1.6) is a 2000 tactical first-person shooter game developed by Valve Corporation and published by Sierra Studios. It is the first installment in the Counter-Strike series.\nThe game pits two teams—the Counter-Terrorists and Terrorists—against each other in objective-based game modes.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/67/Counter-Strike_Box.jpg",
+      "width": 480,
+      "height": 577,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Counter-Strike_Box.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:10.124Z",
+    "facts": {
+      "year": 1999,
+      "developers": [
+        "Valve Corporation"
+      ],
+      "publishers": [
+        "Valve Corporation",
+        "Nexon"
+      ],
+      "genres": [
+        "tactical shooter",
+        "first-person shooter"
+      ]
+    }
+  },
+  "crash-bandicoot": {
+    "key": "Crash Bandicoot",
+    "wikipedia": {
+      "title": "Crash Bandicoot (video game)",
+      "url": "https://en.wikipedia.org/wiki/Crash_Bandicoot_(video_game)"
+    },
+    "qid": "Q719176",
+    "summary": "Crash Bandicoot is a 1996 platform game developed by Naughty Dog and published by Sony Computer Entertainment for the PlayStation. The player controls Crash, a genetically enhanced bandicoot created by the mad scientist Doctor Neo Cortex. The story follows Crash as he aims to foil Cortex's plans for world domination and rescue his girlfriend Tawna, a female bandicoot also created by Cortex.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/4/44/Crash_Bandicoot_Cover.png",
+      "width": 480,
+      "height": 477,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Crash_Bandicoot_Cover.png"
+    },
+    "checkedAt": "2026-11-23T17:07:10.436Z",
+    "facts": {
+      "year": 1996,
+      "developers": [
+        "Naughty Dog"
+      ],
+      "publishers": [
+        "Sony Interactive Entertainment"
+      ],
+      "genres": [
+        "3D platform game"
+      ]
+    }
+  },
+  "creatures": {
+    "key": "Creatures",
+    "wikipedia": {
+      "title": "Creatures (1996 video game)",
+      "url": "https://en.wikipedia.org/wiki/Creatures_(1996_video_game)"
+    },
+    "qid": "Q3002413",
+    "summary": "Creatures is an artificial life simulation packaged as a video game developed by British studio Creature Labs for Windows, and was ported to Macintosh, PlayStation, and Game Boy Advance. It is the first game in the Creatures series.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Creatures_1996_Windows_Cover_Art.jpg",
+      "width": 480,
+      "height": 553,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Creatures_1996_Windows_Cover_Art.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:10.996Z",
+    "facts": {
+      "year": 1996,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "artificial life",
+        "life simulation game"
+      ]
+    }
+  },
+  "cytopia": {
+    "key": "Cytopia",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:11.300Z"
+  },
+  "dead-or-alive-2-ultimate": {
+    "key": "Dead or Alive 2 Ultimate",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:11.717Z"
+  },
+  "dead-or-alive-4-online": {
+    "key": "Dead or Alive 4 Online",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:12.157Z"
+  },
+  "diablo-ii-resurrected": {
+    "key": "Diablo II: Resurrected",
+    "wikipedia": {
+      "title": "Diablo II: Resurrected",
+      "url": "https://en.wikipedia.org/wiki/Diablo_II:_Resurrected"
+    },
+    "qid": "Q105592900",
+    "summary": "Diablo II: Resurrected is an action role-playing video game co-developed by Blizzard Entertainment and Vicarious Visions and published by Blizzard Entertainment. It is a remaster of Diablo II (2000) and its expansion Lord of Destruction (2001). The game was released for Nintendo Switch, PlayStation 4, PlayStation 5, Windows, Xbox One, and Xbox Series X and Series S on September 23, 2021.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/88/Diablo_2_Resurrected_cover_art.jpg",
+      "width": 480,
+      "height": 723,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Diablo_2_Resurrected_cover_art.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:12.402Z",
+    "facts": {
+      "year": 2021,
+      "developers": [
+        "Blizzard Entertainment"
+      ],
+      "publishers": [
+        "Blizzard Entertainment"
+      ],
+      "genres": [
+        "action role-playing game"
+      ]
+    }
+  },
+  "dreerally": {
+    "key": "DreeRally",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:12.725Z"
+  },
+  "dust-racing-2d": {
+    "key": "Dust Racing 2D",
+    "wikipedia": {
+      "title": "Dust Racing 2D",
+      "url": "https://en.wikipedia.org/wiki/Dust_Racing_2D"
+    },
+    "qid": "Q5316991",
+    "summary": "Dust Racing 2D (dustrac) is an open-source, tile-based 2D racing game developed by Jussi Lind. The source code is licensed under GNU GPLv3.",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Dust_Racing_2D_2.0.0_Intro.png/500px-Dust_Racing_2D_2.0.0_Intro.png",
+      "width": 480,
+      "height": 115,
+      "source": "Wikipedia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dust_Racing_2D_2.0.0_Intro.png"
+    },
+    "checkedAt": "2026-11-23T17:07:13.029Z",
+    "facts": {
+      "year": 2012,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "racing"
+      ]
+    }
+  },
+  "eglantine": {
+    "key": "Eglantine",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:13.415Z"
+  },
+  "enigma": {
+    "key": "Enigma",
+    "wikipedia": {
+      "title": "Enigma (1998 video game)",
+      "url": "https://en.wikipedia.org/wiki/Enigma_(1998_video_game)"
+    },
+    "qid": "Q60755300",
+    "summary": "Enigma is an action-adventure video game developed by Omega Force and published by Koei for the PlayStation. Set in 1920, the game features three playable characters from England, Japan, and America, who travel the world solving puzzles in various ruins and temples. The game was never released outside of Japan.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3c/Enigma_cover.png",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Enigma_cover.png"
+    },
+    "checkedAt": "2026-11-23T17:07:13.941Z",
+    "facts": {
+      "year": 1998,
+      "developers": [
+        "Omega Force"
+      ],
+      "publishers": [
+        "Koei"
+      ],
+      "genres": [
+        "adventure"
+      ]
+    }
+  },
+  "final-fantasy-ix": {
+    "key": "Final Fantasy IX",
+    "wikipedia": {
+      "title": "Final Fantasy IX",
+      "url": "https://en.wikipedia.org/wiki/Final_Fantasy_IX"
+    },
+    "qid": "Q474573",
+    "summary": "Final Fantasy IX is a 2000 role-playing video game developed and published by Square for the PlayStation video game console. It is the ninth game in the main Final Fantasy series. The plot focuses on a war between nations in a medieval fantasy world called Gaia.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/51/Ffixbox.jpg",
+      "width": 480,
+      "height": 459,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Ffixbox.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:14.192Z",
+    "facts": {
+      "year": 2000,
+      "developers": [
+        "Square"
+      ],
+      "publishers": [
+        "Square",
+        "Square Enix"
+      ],
+      "genres": [
+        "role-playing"
+      ]
+    }
+  },
+  "fire-emblem-three-houses": {
+    "key": "Fire Emblem: Three Houses",
+    "wikipedia": {
+      "title": "Fire Emblem: Three Houses",
+      "url": "https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses"
+    },
+    "qid": "Q54960673",
+    "summary": "Fire Emblem: Three Houses is a 2019 tactical role-playing video game developed by Intelligent Systems and Koei Tecmo's Kou Shibusawa and published by Nintendo for the Nintendo Switch. A collaboration between Intelligent Systems and Koei Tecmo, it is the sixteenth entry in the Fire Emblem series and the first for home consoles since Radiant Dawn, originally released in 2007.\nThree Houses is set on the continent of Fódlan, divided between three ruling powers currently at peace.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/16/Fire_Emblem_Three_Houses.jpg",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Fire_Emblem_Three_Houses.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:14.436Z",
+    "facts": {
+      "year": 2019,
+      "developers": [
+        "Intelligent Systems",
+        "Koei Tecmo Holdings"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "tactical role-playing game",
+        "video game with LGBT character"
+      ]
+    }
+  },
+  "gothic": {
+    "key": "Gothic",
+    "wikipedia": {
+      "title": "Gothic (video game)",
+      "url": "https://en.wikipedia.org/wiki/Gothic_(video_game)"
+    },
+    "qid": "Q767456",
+    "summary": "Gothic is a 2001 action role-playing game developed by Piranha Bytes for Windows and the first game of the Gothic game franchise. A port, titled Gothic Classic, was released in 2023 and in 2026 for Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S and iOS.\nGothic was well-received by critics, who credited the game for its story, world design, atmosphere, interaction with other in-game characters, and graphics, but criticized it for its many bugs, an unusual control scheme and high system requirements. The English localization was described as less well written than the language versions in which the game became popular.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Gothiccover.png",
+      "width": 480,
+      "height": 671,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Gothiccover.png"
+    },
+    "checkedAt": "2026-11-23T17:07:14.685Z",
+    "facts": {
+      "year": 2001,
+      "developers": [
+        "Piranha Bytes"
+      ],
+      "publishers": [
+        "Egmont International Holding",
+        "THQ Nordic"
+      ],
+      "genres": [
+        "action role-playing game",
+        "role-playing"
+      ]
+    }
+  },
+  "gravity-rush-2": {
+    "key": "Gravity Rush 2",
+    "wikipedia": {
+      "title": "Gravity Rush 2",
+      "url": "https://en.wikipedia.org/wiki/Gravity_Rush_2"
+    },
+    "qid": "Q23013629",
+    "summary": "Gravity Rush 2, known in Japan as Gravity Daze 2, is a 2017 action-adventure game developed and published by Sony Interactive Entertainment for the PlayStation 4. It is the sequel to Gravity Rush. Directed by Keiichiro Toyama, the core mechanic of the game is the player's ability to manipulate gravity, allowing unique movements and navigation.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/94/Gravity_Rush_2.jpg",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Gravity_Rush_2.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:14.929Z",
+    "facts": {
+      "year": 2017,
+      "developers": [
+        "Japan Studio"
+      ],
+      "publishers": [
+        "Sony Interactive Entertainment"
+      ],
+      "genres": [
+        "action-adventure game"
+      ]
+    }
+  },
+  "guac": {
+    "key": "guac",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:15.302Z"
+  },
+  "in-the-groove": {
+    "key": "In the Groove",
+    "wikipedia": {
+      "title": "In the Groove (video game)",
+      "url": "https://en.wikipedia.org/wiki/In_the_Groove_(video_game)"
+    },
+    "qid": "Q2635080",
+    "summary": "In the Groove (abbreviated ITG) is a rhythm game developed and published by Roxor Games. The game was shown in an official beta-testing preview on July 9, 2004, and was officially released in arcades around August 30, 2004. A PlayStation 2 port of In the Groove was released on June 17, 2005, by RedOctane.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/83/In_the_Groove_game_cover.jpg",
+      "width": 480,
+      "height": 679,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:In_the_Groove_game_cover.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:15.573Z",
+    "facts": {
+      "year": 2005,
+      "developers": [
+        "Roxor Games"
+      ],
+      "publishers": [
+        "RedOctane"
+      ],
+      "genres": [
+        "music"
+      ]
+    }
+  },
+  "jgenesis": {
+    "key": "jgenesis",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:15.861Z"
+  },
+  "kings-field-the-ancient-city": {
+    "key": "King's Field: The Ancient City",
+    "wikipedia": {
+      "title": "King's Field IV",
+      "url": "https://en.wikipedia.org/wiki/King%27s_Field_IV"
+    },
+    "qid": "Q6410942",
+    "summary": "King's Field IV, released in North America as King's Field: The Ancient City, is a 2001 action role-playing game developed by FromSoftware for the PlayStation 2. It is the fourth entry in the King's Field series. It was released in North America by Agetec in 2002 and in Europe by Metro3D in 2003.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/91/King%27s_Field_IV.jpg",
+      "width": 480,
+      "height": 677,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:King%27s_Field_IV.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:16.148Z",
+    "facts": {
+      "year": 2001,
+      "developers": [
+        "FromSoftware"
+      ],
+      "publishers": [
+        "Metro3D"
+      ],
+      "genres": [
+        "role-playing"
+      ]
+    }
+  },
+  "kytyps5": {
+    "key": "KytyPS5",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:16.458Z"
+  },
+  "labbaye-des-morts": {
+    "key": "l'Abbaye des Morts",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:16.803Z"
+  },
+  "lantern-engine": {
+    "key": "Lantern Engine",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:17.156Z"
+  },
+  "libre-trainsim": {
+    "key": "Libre TrainSim",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:17.507Z"
+  },
+  "librequake": {
+    "key": "LibreQuake",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:17.826Z"
+  },
+  "lightspark": {
+    "key": "Lightspark",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:18.917Z"
+  },
+  "lincity-ng-a-city-simulation-game": {
+    "key": "LinCity-NG: A city simulation game",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:19.348Z"
+  },
+  "lix": {
+    "key": "Lix",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:19.668Z"
+  },
+  "mugen": {
+    "key": "M.U.G.E.N",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:20.154Z"
+  },
+  "marble-marcher": {
+    "key": "Marble Marcher",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:20.551Z"
+  },
+  "mario-and-luigi-brothership": {
+    "key": "Mario & Luigi: Brothership",
+    "wikipedia": {
+      "title": "Mario & Luigi: Brothership",
+      "url": "https://en.wikipedia.org/wiki/Mario_%26_Luigi:_Brothership"
+    },
+    "qid": "Q126722673",
+    "summary": "Mario & Luigi: Brothership is a 2024 role-playing video game developed by Acquire and published by Nintendo for the Nintendo Switch. It is the sixth installment in the Mario & Luigi series.\nFollowing the appearance of a mysterious portal, Mario and Luigi, alongside other residents of the Mushroom Kingdom, find themselves transported to the world of Concordia, where they work to reunite the land after a dark force begins to separate and isolate its inhabitants in solitude.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/0f/Mario_%26_Luigi_-_Brothership_%28cover_art%29.jpg",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Mario_%26_Luigi_-_Brothership_(cover_art).jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:20.824Z",
+    "facts": {
+      "year": 2024,
+      "developers": [],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "role-playing"
+      ]
+    }
+  },
+  "metroid-prime-remastered": {
+    "key": "Metroid Prime Remastered",
+    "wikipedia": {
+      "title": "Metroid Prime",
+      "url": "https://en.wikipedia.org/wiki/Metroid_Prime"
+    },
+    "qid": "Q1765733",
+    "summary": "Metroid Prime is a 2002 action-adventure game developed by Retro Studios and published by Nintendo for the GameCube. It is the fifth main Metroid game, and the first to use 3D computer graphics and a first-person perspective. It was released in North America in November 2002 and in Japan and Europe the following year.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/MetroidPrimebox.jpg",
+      "width": 480,
+      "height": 666,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:MetroidPrimebox.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:21.095Z"
+  },
+  "mr-rescue": {
+    "key": "Mr. Rescue",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:21.459Z"
+  },
+  "museum-of-all-things": {
+    "key": "Museum of All Things",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:21.985Z"
+  },
+  "namco-2x-systems": {
+    "key": "Namco 2x Systems",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:22.375Z"
+  },
+  "nestopia": {
+    "key": "Nestopia",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:22.783Z"
+  },
+  "phira": {
+    "key": "Phira",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:23.184Z"
+  },
+  "plants-vs-zombies-garden-warfare": {
+    "key": "Plants vs. Zombies Garden Warfare",
+    "wikipedia": {
+      "title": "Plants vs. Zombies: Garden Warfare",
+      "url": "https://en.wikipedia.org/wiki/Plants_vs._Zombies:_Garden_Warfare"
+    },
+    "qid": "Q13455638",
+    "summary": "Plants vs. Zombies: Garden Warfare (commonly abbreviated as PVZGW or GW1) is a 2014 third-person shooter video game developed by PopCap Vancouver and published by Electronic Arts. The third game in the Plants vs.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/5/5d/Garden_Warfare_cover_art.png",
+      "width": 480,
+      "height": 642,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Garden_Warfare_cover_art.png"
+    },
+    "checkedAt": "2026-11-23T17:07:23.472Z",
+    "facts": {
+      "year": 2014,
+      "developers": [
+        "Electronic Arts"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "tower defense",
+        "third-person shooter"
+      ]
+    }
+  },
+  "principia": {
+    "key": "Principia",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:23.892Z"
+  },
+  "ps5": {
+    "key": "PS5",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:24.299Z"
+  },
+  "retro-engine": {
+    "key": "Retro Engine",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:24.706Z"
+  },
+  "rigs-of-rods": {
+    "key": "Rigs of Rods",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:25.192Z"
+  },
+  "road-trip-adventure": {
+    "key": "Road Trip Adventure",
+    "wikipedia": {
+      "title": "Road Trip Adventure",
+      "url": "https://en.wikipedia.org/wiki/Road_Trip_Adventure"
+    },
+    "qid": "Q3434084",
+    "summary": "Road Trip Adventure is a 2002 racing adventure video game for the PlayStation 2 that forms as the sequel to Choro Q HG, released the year prior. It was developed by a small Japanese developer named E-Game and published by Takara. The game was localized as a budget title in North America and PAL regions by Conspiracy Entertainment and Play It in 2003, with the removal of any references to the Choro Q toys.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/9/93/Road_Trip_Adventure_cover_art.jpg",
+      "width": 480,
+      "height": 681,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Road_Trip_Adventure_cover_art.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:25.449Z",
+    "facts": {
+      "year": 2002,
+      "developers": [
+        "Takara"
+      ],
+      "publishers": [
+        "Takara"
+      ],
+      "genres": [
+        "racing"
+      ]
+    }
+  },
+  "rocksmith-2014-remastered": {
+    "key": "Rocksmith 2014 Remastered",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:25.808Z"
+  },
+  "rota-bend-gravity": {
+    "key": "ROTA: Bend Gravity",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:26.180Z"
+  },
+  "shadow-the-hedgehog": {
+    "key": "Shadow the Hedgehog",
+    "wikipedia": {
+      "title": "Shadow the Hedgehog (video game)",
+      "url": "https://en.wikipedia.org/wiki/Shadow_the_Hedgehog_(video_game)"
+    },
+    "qid": "Q1140411",
+    "summary": "Shadow the Hedgehog is a 2005 platform game developed by Sega Studios USA and published by Sega. It is a spinoff from the Sonic the Hedgehog series starring the character Shadow. It follows the amnesiac Shadow's attempts to learn about his past during an alien invasion.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b2/Shadow_the_Hedgehog_Coverart.png",
+      "width": 480,
+      "height": 677,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Shadow_the_Hedgehog_Coverart.png"
+    },
+    "checkedAt": "2026-11-23T17:07:26.452Z",
+    "facts": {
+      "year": 2005,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "third-person shooter",
+        "post-apocalyptic"
+      ]
+    }
+  },
+  "shattered-pixel-dungeon": {
+    "key": "Shattered Pixel Dungeon",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:26.877Z"
+  },
+  "silent-hill-4-the-room": {
+    "key": "Silent Hill 4: The Room",
+    "wikipedia": {
+      "title": "Silent Hill 4: The Room",
+      "url": "https://en.wikipedia.org/wiki/Silent_Hill_4:_The_Room"
+    },
+    "qid": "Q613124",
+    "summary": "Silent Hill 4: The Room is a 2004 survival horror video game developed by Konami's Team Silent and published by Konami. The fourth installment in the Silent Hill series, the game was released in Japan in June and in North America and Europe in September. Silent Hill 4 was released for the PlayStation 2, Xbox, and Windows.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/ab/Silent2002.jpg",
+      "width": 480,
+      "height": 619,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Silent2002.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:27.125Z",
+    "facts": {
+      "year": 2004,
+      "developers": [
+        "Team Silent"
+      ],
+      "publishers": [
+        "Konami"
+      ],
+      "genres": [
+        "psychological horror fiction",
+        "survival horror"
+      ]
+    }
+  },
+  "slippi-launcher": {
+    "key": "Slippi Launcher",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:27.502Z"
+  },
+  "stunt-car-racer": {
+    "key": "Stunt Car Racer",
+    "wikipedia": {
+      "title": "Stunt Car Racer",
+      "url": "https://en.wikipedia.org/wiki/Stunt_Car_Racer"
+    },
+    "qid": "Q1421623",
+    "summary": "Stunt Car Racer (published as Stunt Track Racer in the US) is a racing video game developed by Geoff Crammond. Versions for the Amiga, Atari ST, Commodore 64, MS-DOS, and ZX Spectrum were published in 1989 by MicroProse, under their MicroStyle and MicroPlay labels in the UK and in the US, respectively. An Amstrad CPC port followed in 1990.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/b/b0/Stunt_Car_Racer_Coverart.png",
+      "width": 480,
+      "height": 586,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Stunt_Car_Racer_Coverart.png"
+    },
+    "checkedAt": "2026-11-23T17:07:27.753Z",
+    "facts": {
+      "year": 1989,
+      "developers": [
+        "MicroProse"
+      ],
+      "publishers": [
+        "MicroProse"
+      ],
+      "genres": [
+        "racing"
+      ]
+    }
+  },
+  "super-hexagon": {
+    "key": "Super Hexagon",
+    "wikipedia": {
+      "title": "Super Hexagon",
+      "url": "https://en.wikipedia.org/wiki/Super_Hexagon"
+    },
+    "qid": "Q218568",
+    "summary": "Super Hexagon is an action video game created by independent developer Terry Cavanagh with music composed by Chipzel. Originally released for iOS in September 2012, versions for Windows and macOS were released three months later. Android, BlackBerry and Linux versions followed in early 2013.",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Suphexlogo.png/500px-Suphexlogo.png",
+      "width": 480,
+      "height": 146,
+      "source": "Wikipedia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suphexlogo.png"
+    },
+    "checkedAt": "2026-11-23T17:07:28.017Z",
+    "facts": {
+      "year": 2012,
+      "developers": [
+        "Terry Cavanagh"
+      ],
+      "publishers": [
+        "Terry Cavanagh"
+      ],
+      "genres": [
+        "action game"
+      ]
+    }
+  },
+  "super-mario-3d-land-recompiled": {
+    "key": "Super Mario 3D Land Recompiled",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:28.420Z"
+  },
+  "super-mario-odyssey": {
+    "key": "Super Mario Odyssey",
+    "wikipedia": {
+      "title": "Super Mario Odyssey",
+      "url": "https://en.wikipedia.org/wiki/Super_Mario_Odyssey"
+    },
+    "qid": "Q28234671",
+    "summary": "Super Mario Odyssey is a 2017 platform game developed and published by Nintendo for the Nintendo Switch. An installment in the Super Mario series, it follows Mario and his new ally Cappy—a sentient hat—as they journey across various kingdoms to save Princess Peach from Mario's nemesis Bowser's plans of forced marriage. In contrast to the linear gameplay of prior entries, the game returns to the primarily open-ended, 3D platform gameplay featured in Super Mario 64 and Super Mario Sunshine.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg",
+      "width": 480,
+      "height": 480,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Super_Mario_Odyssey.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:28.688Z",
+    "facts": {
+      "year": 2017,
+      "developers": [
+        "Nintendo"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "3D platform game",
+        "collect-a-thon platformer"
+      ]
+    }
+  },
+  "tabletop-club": {
+    "key": "Tabletop Club",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:29.072Z"
+  },
+  "team-fortress-classic": {
+    "key": "Team Fortress Classic",
+    "wikipedia": {
+      "title": "Team Fortress Classic",
+      "url": "https://en.wikipedia.org/wiki/Team_Fortress_Classic"
+    },
+    "qid": "Q1799621",
+    "summary": "Team Fortress Classic is a 1999 first-person shooter game developed by Valve and published by Sierra Studios. It was originally released in April 1999 as a mod for Valve's 1998 Windows game Half-Life, and is based on Team Fortress, a mod for the 1996 game Quake.\nIn Team Fortress Classic, two teams compete in online multiplayer matches.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/Team_Fortress_Classic_box.jpg",
+      "width": 480,
+      "height": 720,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Team_Fortress_Classic_box.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:29.302Z",
+    "facts": {
+      "year": 1999,
+      "developers": [
+        "Valve Corporation"
+      ],
+      "publishers": [],
+      "genres": [
+        "first-person shooter"
+      ]
+    }
+  },
+  "techmino": {
+    "key": "Techmino",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:29.597Z"
+  },
+  "teeworlds": {
+    "key": "Teeworlds",
+    "wikipedia": {
+      "title": "Teeworlds",
+      "url": "https://en.wikipedia.org/wiki/Teeworlds"
+    },
+    "qid": "Q1463680",
+    "summary": "Teeworlds (formerly TeeWars) is a free, open-source sidescrolling multiplayer shooting game originally created by the Swedish developer Magnus Auvinen and now maintained by the community. It features simple cartoon-themed graphics and physics and relies heavily on classic shooter weaponry and gameplay. Currently there are official versions for Microsoft Windows, Linux, macOS as well as being available via the digital distributor Steam since 2015.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Teeworlds_logo.png",
+      "width": 480,
+      "height": 109,
+      "source": "Wikipedia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teeworlds_logo.png"
+    },
+    "checkedAt": "2026-11-23T17:07:29.879Z",
+    "facts": {
+      "year": 2007,
+      "developers": [
+        "Teeworlds Team"
+      ],
+      "publishers": [
+        "Teeworlds Team"
+      ],
+      "genres": [
+        "platform game",
+        "third-person shooter"
+      ]
+    }
+  },
+  "tenchu-z": {
+    "key": "Tenchu Z",
+    "wikipedia": {
+      "title": "Tenchu Z",
+      "url": "https://en.wikipedia.org/wiki/Tenchu_Z"
+    },
+    "qid": "Q630033",
+    "summary": "Tenchu Z (published in Japan as \"Tenchu Senran\") is an action-adventure stealth video game developed by Kei-Two and published by FromSoftware in Japan and Microsoft Game Studios worldwide for the Xbox 360 in 2006.\nIt is different from previous games in the series in that the player creates their own ninja characters, then builds up their skills as they play through the game rather than choosing from a small selection of pre-made characters, as they take orders from the series' previous main male character, Rikimaru. It also features four-player cooperative play through Xbox Live.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/c/ce/Tenchu_Z.jpg",
+      "width": 480,
+      "height": 676,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Tenchu_Z.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:30.148Z",
+    "facts": {
+      "year": 2006,
+      "developers": [
+        "FromSoftware"
+      ],
+      "publishers": [
+        "FromSoftware"
+      ],
+      "genres": [
+        "stealth game"
+      ]
+    }
+  },
+  "that-trademark-the-roguelike": {
+    "key": "That Trademark, the Roguelike",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:30.516Z"
+  },
+  "the-powder-toy": {
+    "key": "The Powder Toy",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:30.980Z"
+  },
+  "thirdeye": {
+    "key": "Thirdeye",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:31.268Z"
+  },
+  "thrive": {
+    "key": "Thrive",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:31.679Z"
+  },
+  "titanfall-2": {
+    "key": "Titanfall 2",
+    "wikipedia": {
+      "title": "Titanfall 2",
+      "url": "https://en.wikipedia.org/wiki/Titanfall_2"
+    },
+    "qid": "Q24044813",
+    "summary": "Titanfall 2 is a 2016 first-person shooter game developed by Respawn Entertainment and published by Electronic Arts. A sequel to 2014's Titanfall, the game was released worldwide on October 28, 2016, for PlayStation, Windows, and Xbox One. In Titanfall 2, the player controls a titan, mecha-style  autonomous machines and their pilots, who are agile and equipped with a variety of skills ranging from wall-running to cloaking.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/1/13/Titanfall_2.jpg",
+      "width": 480,
+      "height": 642,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Titanfall_2.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:31.939Z",
+    "facts": {
+      "year": 2016,
+      "developers": [
+        "Respawn Entertainment"
+      ],
+      "publishers": [
+        "Electronic Arts"
+      ],
+      "genres": [
+        "first-person shooter",
+        "science fiction"
+      ]
+    }
+  },
+  "ufc-undisputed-3": {
+    "key": "UFC Undisputed 3",
+    "wikipedia": {
+      "title": "UFC Undisputed 3",
+      "url": "https://en.wikipedia.org/wiki/UFC_Undisputed_3"
+    },
+    "qid": "Q595474",
+    "summary": "UFC Undisputed 3 is a mixed martial arts video game featuring Ultimate Fighting Championship properties and fighters developed by Yuke's and published by THQ. It was released for PlayStation 3 and Xbox 360.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/UFC_Undisputed_3_cover.png",
+      "width": 480,
+      "height": 592,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:UFC_Undisputed_3_cover.png"
+    },
+    "checkedAt": "2026-11-23T17:07:32.200Z",
+    "facts": {
+      "year": 2012,
+      "developers": [
+        "Yuke's"
+      ],
+      "publishers": [
+        "THQ"
+      ],
+      "genres": [
+        "fighting game"
+      ]
+    }
+  },
+  "ultrastar-deluxe": {
+    "key": "UltraStar Deluxe",
+    "wikipedia": {
+      "title": "UltraStar",
+      "url": "https://en.wikipedia.org/wiki/UltraStar"
+    },
+    "qid": "Q2301093",
+    "summary": "UltraStar is a clone of SingStar, a music video game by Polish developer Patryk \"Covus5\" Cebula. UltraStar lets one or several players score points by singing along to a song or music video and match the pitch of the original song. UltraStar displays lyrics as well as the correct notes similar to a piano roll.",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Ultrastar_082_pre-alpha_01.jpg/500px-Ultrastar_082_pre-alpha_01.jpg",
+      "width": 480,
+      "height": 270,
+      "source": "Wikipedia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ultrastar_082_pre-alpha_01.jpg"
+    },
+    "checkedAt": "2026-11-23T17:07:32.469Z",
+    "facts": {
+      "year": 2009,
+      "developers": [],
+      "publishers": [],
+      "genres": [
+        "music"
+      ]
+    }
+  },
+  "unnamed-sdvx-clone": {
+    "key": "Unnamed SDVX Clone",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:32.780Z"
+  },
+  "wii-party": {
+    "key": "Wii Party",
+    "wikipedia": {
+      "title": "Wii Party",
+      "url": "https://en.wikipedia.org/wiki/Wii_Party"
+    },
+    "qid": "Q1200921",
+    "summary": "Wii Party is a 2010 party video game developed by NDcube and published by Nintendo for the Wii. The game heavily borrows gameplay elements from the Mario Party series. It is also the first game in the Wii series that Shigeru Miyamoto did not produce.",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Wii_Party_boxart.png",
+      "width": 480,
+      "height": 675,
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/File:Wii_Party_boxart.png"
+    },
+    "checkedAt": "2026-11-23T17:07:33.052Z",
+    "facts": {
+      "year": 2010,
+      "developers": [
+        "Nintendo Cube"
+      ],
+      "publishers": [
+        "Nintendo"
+      ],
+      "genres": [
+        "party"
+      ]
+    }
+  },
+  "xbased": {
+    "key": "xbased",
+    "wikipedia": null,
+    "checkedAt": "2026-11-23T17:07:33.378Z"
   }
 }
